@@ -5,7 +5,7 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 ### What is this repository for? ###
 
 + Quick summary
-    * a systematize-to_do-checklist when create a new repo
+    * a _systematize-to_do-checklist_ formulæ when a repo is created
 + Version
     * 1.0 (will suffer continous updates)
 

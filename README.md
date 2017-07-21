@@ -5,17 +5,17 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 ### What is this repository for? ###
 
 + Quick summary
-    * a _systematize-to_do-checklist_ formulÃ¦ when a repo is created
+    * a _systematize-to_do-checklist_ formulæ when a repo is created
 + Version
-    * 1.0 (will suffer continous updates)
+    * 1.1 (will suffer continous updates)
 
 
 ### How do I get set up? ###
 
 + Summary of set up
-    * check _[issues](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues?status=new&status=open)_. At some point, I will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road.
+    * check _[issues](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues?status=new&status=open)_. At some point, I (We) will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road.
 + Configuration
-    * depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown), and surely open-source projects.
+    * depends mostly on Bitbucket, Bitbucket internal [Markdown](https://en.wikipedia.org/wiki/Markdown). In the future, can occur a migration to Github. Most depends on our proxy server.
 + Dependencies
     * _the less, the better_. A personal motto.
 + How to run tests

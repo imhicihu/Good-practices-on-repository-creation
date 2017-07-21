@@ -7,7 +7,7 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 + Quick summary
     * a _systematize-to_do-checklist_ formulæ when a repo is created
 + Version
-    * 1.1 (will suffer continous updates)
+    * 1.1
 
 
 ### How do I get set up? ###

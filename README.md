@@ -19,7 +19,7 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 + Dependencies
     * _the less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto).
 + How to run tests
-    * Sign up an account in [Bitbucket](https://bitbucket.org/) and begin to create your project
+    * Create an account in [Bitbucket](https://bitbucket.org/) or [Github](https://github.com/) and begin to create your project
 + Deployment instructions
     * No mandatory "_to follow_". It is a "_good practice_" exercise and follow my needs.
 

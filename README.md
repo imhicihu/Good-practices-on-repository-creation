@@ -5,36 +5,36 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 ### What is this repository for? ###
 
 + Quick summary
-    * a _systematize-to_do-checklist_ formulæ when a repo is created
+    * A _systematize-to_do-checklist_ formulæ when a repo is created
 + Version
-    * 1.1
+    * 1.2
 
 
 ### How do I get set up? ###
 
 + Summary of set up
-    * check _[issues](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues?status=new&status=open)_. At some point, I (We) will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road.
+    * Check _[issues](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues?status=new&status=open)_. At some point, I (We) will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road
 + Configuration
-    * depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). ~~In the future, can occur a migration to [Github](https://github.com/)~~. In the meantime, some repos have been migrated/mirrored to [Github](https://github.com/imhicihu). Mostly depends on our proxy server's _mood_.
+    * Depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). ~~In the future, can occur a migration to [Github](https://github.com/)~~. In the meantime, some repos have been migrated/mirrored to [Github](https://github.com/imhicihu). Mostly depends on our proxy server's _mood_
 + Dependencies
-    * _the less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto).
+    * _the less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
 + How to run tests
     * Create an account in [Bitbucket](https://bitbucket.org/) or [Github](https://github.com/) and begin to create your project
 + Deployment instructions
-    * No mandatory "_to follow_". It is a "_good practice_" exercise and follow my needs.
+    * No mandatory "_to follow_". It is a "_good practice_" exercise and follow ~~my~~ our needs
 
 ### Contribution guidelines ###
 
 * Writing tests
-     * Fork this repo. Open an issue or just comment the workflow described.
+     * Fork this repo. Open an issue-pull request or just comment the workflow described
 * Code review
-     * There is no code (at this moment). Just time-savers, reminds and rules of good practice to minimize "pain".
+     * There is no code. Just time-savers, reminders and rules of good practice to optimize Time (a human creation)
 * Other guidelines
-     * Not at this time.
+     * This repo is a _massive_ guideline.
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     * Leave a comment or just open an issue
+     * Leave a comment or just open an issue -) pull request
 * Other community or team contact
-     * Open to contributions to enhance the path and time in the repository creation.
+     * Open to contributions to enhance the path and time in the repository creation. Check in the *Boards* section

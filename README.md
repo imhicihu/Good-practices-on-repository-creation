@@ -1,4 +1,4 @@
-# README # [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
+# Rationale # [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
 
 The purpose of this repo is a way of checklist when I create a brand new repository.
 
@@ -37,4 +37,4 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 * Repo owner or admin
      * Leave a comment or just open an issue -) pull request
 * Other community or team contact
-     * Open to contributions to enhance the path and time in the repository creation. Check in the *Boards* section
+     * Open to contributions to enhance the path and time in the repository creation. Check in the *[Boards](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/addon/bitbucket-trello-addon/trello-board)* section

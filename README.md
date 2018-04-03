@@ -15,7 +15,7 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 + Summary of set up
     * Check _[issues](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues?status=new&status=open)_. At some point, I (We) will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road
 + Configuration
-    * Depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). ~~In the future, can occur a migration to [Github](https://github.com/)~~. In the meantime, some repos have been migrated~~/mirrored~~ to [Github](https://github.com/imhicihu). Mostly depends on our proxy server's _mood_
+    * Depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). ~~In the future, can occur a migration to [Github](https://github.com/)~~. In the meantime, some repos have been migrated~~/mirrored~~ to [Github](https://github.com/imhicihu) or [Read the docs](https://readthedocs.org/) for our inner documentation and tutorials
 + Dependencies
     * _the less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
 + How to run tests
@@ -28,9 +28,9 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 * Writing tests
      * Fork this repo. Open an issue-pull request or just comment the workflow described
 * Code review
-     * There is no code. Just time-savers, reminders and rules of good practice to optimize Time (a human creation)
+     * There is no code. Just time-savers, reminders and rules of good practice to optimize _Time_ (a human creation)
 * Other guidelines
-     * This repo is a _massive_ guideline.
+     * This repo is a _massive_ guideline
 
 ### Who do I talk to? ###
 

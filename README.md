@@ -30,7 +30,7 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 * Code review
      * There is no code. Just time-savers, reminders and rules of good practice to optimize _Time_ (a human creation)
 * Other guidelines
-     * This repo is a _massive_ guideline
+     * This repo is a _massive_ guideline / checklist
 
 ### Who do I talk to? ###
 

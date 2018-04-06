@@ -10,8 +10,8 @@
     - english  --> `Template - Rationale (english)`
     - spanish --> `Plantilla Leeme Español`
 * from `Snippets` section, create this files on the `Sources` section
-    - `.gitignore``
-    - `.editorconfig``
+    - `.gitignore`
+    - `.editorconfig`
     - `.gitattributes`
 * Then, create this files in the same section:
     - `Colophon.md`

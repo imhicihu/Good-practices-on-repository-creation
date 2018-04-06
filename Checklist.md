@@ -15,8 +15,15 @@
     - Click on `Issue tracking` option
     - In `Language` choose the code language that it will be use
     - Click on `Create repository`
-* enable the `Boards` section
-    - inside of it, add this card: `Proposals \ Prouestas`
+* once created the repository, go to --> `Settings^, then `Repository details`
+    - append an avatar
+        - size: no more than 1Mb in size
+        - file type allowed: `PNG`, `Gif` or `Jpeg`
+    - enable the `Boards` section
+        - inside of it, add this card: `Proposals \ Prouestas`
+    - introduce a `Google Analitics key` in the option with the same name
+* on `Settings` go to `Issue tracker`
+    - Choose between: `No issue tracker`, `Private tracker` or `Public tracker`
 * go the `Snippets` section. Choose language template according nature's project 
     - english  --> `Template - Rationale (english)`
     - spanish --> `Plantilla Leeme Espa�ol`
@@ -29,11 +36,8 @@
     - `To do.md`
     - `Bibliography.md`
     - `Links.md`
-* On `Settings`
-    - introduce the `Google Analitics key`
-* create a first issue
-* automatically it will generate a RSS feed. Copy the URL of the rss feed and append to [Feedly](feedly.com). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
+* create a first issue. Automatically it will generate a RSS feed. Copy the URL of the rss feed and append to [Feedly](feedly.com). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
 
 ![rss.png](https://bitbucket.org/repo/AgG5e6d/images/2187833784-rss.png)
 
-* Choose which license fit the general purpose of the project.  
+* Choose which license fit the general purpose of the project.

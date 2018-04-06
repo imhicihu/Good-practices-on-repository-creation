@@ -1,6 +1,7 @@
 ## Introduction
 * This is a _bona-fide_ effort, as acts just a mere checklist. It fills our needs, but in general, can provide a lot of time gained. Go for them!
-![repository.png](https://bitbucket.org/repo/ekyaeEE/images/3364401480-repository.png)
+
+![repository.png](https://bitbucket.org/repo/ekyaeEE/images/1818504507-repository.png)
 
 ## Steps
 * verify that your internet connection is running. And stable
@@ -18,7 +19,7 @@
     - inside of it, add this card: `Proposals \ Prouestas`
 * go the `Snippets` section. Choose language template according nature's project 
     - english  --> `Template - Rationale (english)`
-    - spanish --> `Plantilla Leeme Español`
+    - spanish --> `Plantilla Leeme Espaï¿½ol`
 * from `Snippets` section, create this files on the `Sources` section
     - `.gitignore`
     - `.editorconfig`

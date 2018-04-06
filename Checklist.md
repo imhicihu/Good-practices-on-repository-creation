@@ -1,9 +1,19 @@
 ## Introduction
-* This is a _bona-fide_ effort, as acts just a mere checklist. It fills our needs, but in general, can provide a lot of time gained. Go for them! 
+* This is a _bona-fide_ effort, as acts just a mere checklist. It fills our needs, but in general, can provide a lot of time gained. Go for them!
+![repository.png](https://bitbucket.org/repo/ekyaeEE/images/3364401480-repository.png)
 
-### Steps
+## Steps
 * verify that your internet connection is running. And stable
-* create the repository in Bitbucket
+* create the repository in [Bitbucket](https://bitbucket.org/)
+    - Give a name (the most descriptive name, the better)
+    - choose if it will be a private or public repository
+    - Choose `No` to a request of `Include a README?`
+    - Version Control: `Git`
+    - Give a `Description`
+    - Choose what kind of `Forks` you will allow
+    - Click on `Issue tracking` option
+    - In `Language` choose the code language that it will be use
+    - Click on `Create repository`
 * enable the `Boards` section
     - inside of it, add this card: `Proposals \ Prouestas`
 * go the `Snippets` section. Choose language template according nature's project 

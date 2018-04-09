@@ -37,6 +37,6 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     - Leave a comment or just open an issue -) pull request
+     - Leave a comment or just push a `pull request` or contact us through our `Board` (see below)
 * Other community or team contact
      - Open to contributions to enhance the path and time in the repository creation. Check in the *[Boards](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/addon/bitbucket-trello-addon/trello-board)* section

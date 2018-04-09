@@ -15,7 +15,7 @@
     - Click on `Issue tracking` option
     - In `Language` choose the code language that it will be use
     - Click on `Create repository`
-* once created the repository, go to --> `Settings^, then `Repository details`
+* once created the repository, go to --> `Settings`, then `Repository details`
     - append an avatar
         - size: no more than 1Mb in size
         - file type allowed: `PNG`, `Gif` or `Jpeg`

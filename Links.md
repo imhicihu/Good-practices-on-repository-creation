@@ -1,4 +1,5 @@
 ### Tools
+* [International Accent Marks and Diacriticals](http://www.starr.net/is/type/htmlcodes.html): best practice as possible between Google indexing, page rendering, _etc_.
 * [Gitpitch](https://gitpitch.com/): presentations from Git (not tested)
 * https://guides.github.com/features/wikis/
 * https://github.com/datosgobar/taller-repos-readmes

@@ -14,6 +14,11 @@
     - Give a `Description`
     - Choose what kind of `Forks` you will allow
     - Click on `Issue tracking` option
+        - Choose between this options:
+            + No issue tracker
+            + Private issue tracker
+            + Public issue tracker
+                * append this legend: `Any issue will be handled on a best-effort basis // Toda cuestión será manejada sobre la base del mejor esfuerzo posible`
     - In `Language` choose the code language that it will be use
     - Click on `Create repository`
 * once created the repository, go to --> `Settings`, then `Repository details`
@@ -27,7 +32,7 @@
     - Choose between: `No issue tracker`, `Private tracker` or `Public tracker`
 * go the `Snippets` section. Choose language template according nature's project 
     - english  --> `Template - Rationale (english)`
-    - spanish --> `Plantilla Leeme Espa&ntilde;ol`
+    - spanish --> `Plantilla Leeme Español`  <--- bug of Markdown or Bitbucket markdown?
 * from `Snippets` section, create this files on the `Sources` section
     - `.gitignore`
     - `.editorconfig`

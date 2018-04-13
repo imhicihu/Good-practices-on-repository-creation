@@ -1,10 +1,11 @@
 ## Introduction
-* This is a _bona-fide_ effort, as acts just a mere checklist. It fills our needs, but in general, can provide a lot of time gained. Go for them!
+* This is a _bona-fide_ effort, as acts just a simple _checklist_. 
+* It fills our needs, but in general, can sum a lot of time gained. Give it a try!
 
 ![repository.png](https://bitbucket.org/repo/ekyaeEE/images/1675859675-repository.png)
 
 ## Steps
-* verify that your internet connection is running. And stable
+* verify that your internet connection is running and stable
 * create the repository in [Bitbucket](https://bitbucket.org/)
     - Give a name (the most descriptive name, the better)
     - choose if it will be a private or public repository
@@ -26,7 +27,7 @@
     - Choose between: `No issue tracker`, `Private tracker` or `Public tracker`
 * go the `Snippets` section. Choose language template according nature's project 
     - english  --> `Template - Rationale (english)`
-    - spanish --> `Plantilla Leeme Español`
+    - spanish --> `Plantilla Leeme Espa&ntilde;ol`
 * from `Snippets` section, create this files on the `Sources` section
     - `.gitignore`
     - `.editorconfig`

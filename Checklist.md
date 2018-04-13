@@ -18,7 +18,7 @@
             + No issue tracker
             + Private issue tracker
             + Public issue tracker
-                * append this legend: `Any issue will be handled on a best-effort basis // Toda cuestiÃ³n serÃ¡ manejada sobre la base del mejor esfuerzo posible`
+                * append this legend: `Any issue will be handled on a best-effort basis // Toda cuestión será manejada sobre la base del mejor esfuerzo posible`
     - In `Language` choose the code language that it will be use
     - Click on `Create repository`
 * once created the repository, go to --> `Settings`, then `Repository details`
@@ -32,18 +32,18 @@
     - Choose between: `No issue tracker`, `Private tracker` or `Public tracker`
 * go the `Snippets` section. Choose language template according nature's project 
     - english  --> `Template - Rationale (english)`
-    - spanish --> `Plantilla Leeme EspaÃ±ol`  <--- bug of Markdown or Bitbucket markdown?
+    - spanish --> `Plantilla Leeme Español`
 * from `Snippets` section, create this files on the `Sources` section
     - `.gitignore`
     - `.editorconfig`
     - `.gitattributes`
 * Then, create this files in the same section:
     - `Colophon.md`
-    - `To do.md`
+    - `To Do.md`
     - `Bibliography.md`
     - `Links.md`
 * create a first issue. Automatically it will generate a RSS feed. Copy the URL of the rss feed and append to [Feedly](feedly.com). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
 
 ![rss.png](https://bitbucket.org/repo/AgG5e6d/images/2187833784-rss.png)
 
-* Choose which license fit the general purpose of the project.
+* Choose which [license](https://choosealicense.com/) fit the general purpose of the project.

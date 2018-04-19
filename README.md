@@ -1,6 +1,6 @@
 # Rationale # [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
 
-The purpose of this repo is a way of checklist when I create a brand new repository.
+The purpose of this repo is a way of checklist when we create a brand new repository.
 
 ### What is this repository for? ###
 
@@ -33,6 +33,10 @@ The purpose of this repo is a way of checklist when I create a brand new reposit
      - There is no code. Just time-savers, reminders and rules of good practice to optimize _Time_ (a human creation)
 * Other guidelines
      - This repo is a _massive_ guideline / checklist
+
+### Issues ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues) 
 
 ### Who do I talk to? ###
 

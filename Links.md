@@ -5,3 +5,4 @@
 * https://github.com/datosgobar/taller-repos-readmes
 * https://github.com/lando/lando (not tested)
 * https://github.com/RichardLitt/standard-readme  (foundations of how-to generate precise documentation)
+* https://confluence.atlassian.com/jirasoftware/blog/2015/07/workflow-automation-triggers

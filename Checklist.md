@@ -26,8 +26,8 @@
         - size: no more than 1Mb in size
         - file type allowed: `PNG`, `Gif` or `Jpeg`
     - enable the `Boards` section
-        - inside of it, add this card: `Proposals \ Prouestas`
-    - introduce a `Google Analitics key` in the option with the same name
+        - inside of it, add this card: `Proposals \ Propuestas`
+    - introduce a `Google Analytics key` in the option with the same name
 * on `Settings` go to `Issue tracker`
     - Choose between: `No issue tracker`, `Private tracker` or `Public tracker`
 * go the `Snippets` section. Choose language template according nature's project 

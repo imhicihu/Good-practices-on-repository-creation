@@ -1,4 +1,4 @@
-# Rationale # 
+# Rationale #
 
 The purpose of this repo is a way of checklist when we create a brand new repository.
 

@@ -47,3 +47,5 @@
 ![rss.png](https://bitbucket.org/repo/AgG5e6d/images/2187833784-rss.png)
 
 * Choose which [license](https://choosealicense.com/) fit the general purpose of the project.
+* If a repository is renamed, update the rss feed and urgently go to Feedly to update this new condition (see below)
+![feedly.png](https://bitbucket.org/repo/AgG5e6d/images/304797763-feedly.png)

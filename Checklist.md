@@ -27,6 +27,8 @@
         - file type allowed: `PNG`, `Gif` or `Jpeg`
     - enable the `Boards` section
         - inside of it, add this card: `Proposals \ Propuestas`
+        - by default: `Private`. Toggle to `Public`
+        ![boards.png](https://bitbucket.org/repo/EBnakg/images/2832624469-boards.png)
     - introduce a `Google Analytics key` in the option with the same name
 * on `Settings` go to `Issue tracker`
     - Choose between: `No issue tracker`, `Private tracker` or `Public tracker`

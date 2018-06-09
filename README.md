@@ -39,6 +39,10 @@ The purpose of this repo is a way of checklist when we create a brand new reposi
 * Check them on [here](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues)
 * [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
 
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/commits/) section for the current status
+
 ### Who do I talk to? ###
 
 * Repo owner or admin

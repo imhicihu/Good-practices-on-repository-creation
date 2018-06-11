@@ -7,6 +7,7 @@
 * https://github.com/lando/lando (not tested)
 * https://github.com/RichardLitt/standard-readme  (foundations of how-to generate precise documentation)
 * https://confluence.atlassian.com/jirasoftware/blog/2015/07/workflow-automation-triggers
+* [GitHub's Markdown guide](https://guides.github.com/features/mastering-markdown/)
 
 ## Legal
 * http://catalis.uns.edu.ar/doku/doku.php/acceso_a_bases_isis_desde_python   (take in count the MIT License model)

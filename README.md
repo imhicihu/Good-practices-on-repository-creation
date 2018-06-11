@@ -13,7 +13,7 @@ The purpose of this repo is a way of checklist when we create a brand new reposi
 ### How do I get set up? ###
 
 + Summary of set up
-    - Read our latest [Checklist.md](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/f9c4929c4a50233de11ee3e5d7435084e4a58b1c/Checklist.md?at=master) in the `Source` section. 
+    - Read our latest [Checklist.md](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/8016be983143205aea02916fb2493889e0123605/Checklist.md?at=master&fileviewer=file-view-default) in the `Source` section. 
     - At some point, we will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road
 + Configuration
     - Depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). ~~In the future, can occur a migration to [Github](https://github.com/)~~. 

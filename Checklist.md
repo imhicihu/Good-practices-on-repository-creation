@@ -18,7 +18,7 @@
             + No issue tracker
             + Private issue tracker
             + Public issue tracker
-                * append this legend: `Any issue will be handled on a best-effort basis // Toda cuestión será manejada sobre la base del mejor esfuerzo posible`
+                * append this legend: `Any issue will be handled on a best-effort basis // Todo problema será manejado sobre la base del mejor esfuerzo posible`
     - In `Language` choose the code language that it will be use
     - Click on `Create repository`
 * once created the repository, go to --> `Settings`, then `Repository details`

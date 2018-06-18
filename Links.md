@@ -1,5 +1,5 @@
 ## IMHICIHU digital repository
-* https://bitbucket.org/digital_repository/imhicihu-digital-repository
+* [IMHICIHU digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/)
 
 ## Tools
 * [Libraries.io](https://libraries.io/): a searcher for open source projects. Some serendipity and insights can be found...

@@ -4,3 +4,4 @@
 * Diagram creation tools:
      - [Websequencediagrams](https://www.websequencediagrams.com/)
 	 - [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
+	 - [flowchart.js](http://flowchart.js.org/)

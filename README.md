@@ -1,6 +1,7 @@
 # Rationale #
 
-The purpose of this repo is a way of checklist when we create a brand new repository.
+* The purpose of this repo is a way of checklist when we create a brand new repository.
+* This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
 

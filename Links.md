@@ -13,7 +13,7 @@
 * [GitHub's Markdown guide](https://guides.github.com/features/mastering-markdown/)
 
 ## To read
-* https://joedicastro.com/sincronizar-bitbucket-y-github.html
+* ~~https://joedicastro.com/sincronizar-bitbucket-y-github.html~~
 
 ## Legal
 * http://catalis.uns.edu.ar/doku/doku.php/acceso_a_bases_isis_desde_python   (take in count the MIT License model)

@@ -11,6 +11,7 @@
 * https://github.com/RichardLitt/standard-readme  (foundations of how-to generate precise documentation)
 * https://confluence.atlassian.com/jirasoftware/blog/2015/07/workflow-automation-triggers
 * [GitHub's Markdown guide](https://guides.github.com/features/mastering-markdown/)
+* [Github Topics](https://github.com/github/explore): Community-curated topic pages on GitHub
 
 ## To read
 * ~~https://joedicastro.com/sincronizar-bitbucket-y-github.html~~

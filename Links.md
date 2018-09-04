@@ -14,8 +14,9 @@
 ## Github stuff:
 * [GitHub's Markdown guide](https://guides.github.com/features/mastering-markdown/)
 * [Github Topics](https://github.com/github/explore): Community-curated topic pages on GitHub
-* [Github .gitignore](https://github.com/github/gitignore): GitHub’s collection of `.gitignore` file templates
+* [Github .gitignore](https://github.com/github/gitignore): GitHubï¿½s collection of `.gitignore` file templates
 * [Github Pages (tutorial and good practices *et alia*)](http://jmcglone.com/guides/github-pages/)
+* [Github Pages resources](https://github.com/jekyll/jekyll/blob/master/docs/_docs/resources.md#useful-guides)
 
 ## To read
 * ~~https://joedicastro.com/sincronizar-bitbucket-y-github.html~~

@@ -2,9 +2,10 @@
 * [IMHICIHU digital repository](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/)
 
 ## Tools
-* [Libraries.io](https://libraries.io/): a searcher for open source projects. Some serendipity and insights can be found...
+* [Libraries.io](https://libraries.io/): a searcher for open source projects. Some serendipity and insights can be found around a plethora of repositories...
 * [International Accent Marks and Diacriticals](http://www.starr.net/is/type/htmlcodes.html): best practice as possible between Google indexing, page rendering, _etc_.
 * [Gitpitch](https://gitpitch.com/): presentations from Git (not tested)
+* [Shields.io](https://shields.io/#/): Badges creation
 * https://guides.github.com/features/wikis/
 * https://github.com/datosgobar/taller-repos-readmes
 * https://github.com/lando/lando (not tested)

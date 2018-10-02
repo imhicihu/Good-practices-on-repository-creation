@@ -12,3 +12,5 @@
 	 - [flowchart.js](http://flowchart.js.org/)
 * Pull requests (cleanliness method and better choices)
 	 - [Houndci](https://houndci.com/)
+* Code formatting
+	 - [Prettier](https://prettier.io)

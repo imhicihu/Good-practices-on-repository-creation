@@ -6,6 +6,7 @@
 	* [LinkChecker](https://www.deadlinkchecker.com/)
 * Diagram creation tools:
      - [Websequencediagrams](https://www.websequencediagrams.com/)
+	 - [Draw.io](https://www.draw.io/)
 	 - [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
 * Animations on css
 	 - [Animate.js](https://github.com/juliangarnier/anime/): css animations

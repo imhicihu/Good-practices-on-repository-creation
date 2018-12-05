@@ -19,6 +19,7 @@
 * [Github Pages (tutorial and good practices *et alia*)](http://jmcglone.com/guides/github-pages/)
 * [Github Pages resources](https://github.com/jekyll/jekyll/blob/master/docs/_docs/resources.md#useful-guides)
 * [Gitignore collection (examples)](https://github.com/github/gitignore)
+* [Github ignore files -good practices](https://help.github.com/ignore-files/)
 
 ## To read
 * ~~https://joedicastro.com/sincronizar-bitbucket-y-github.html~~

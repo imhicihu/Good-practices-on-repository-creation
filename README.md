@@ -14,7 +14,7 @@
 ### How do I get set up? ###
 
 + Summary of set up
-    - Read our latest [Checklist.md](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/8016be983143205aea02916fb2493889e0123605/Checklist.md?at=master&fileviewer=file-view-default) in the `Source` section. 
+    - Read our latest [Checklist.md](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/b8c08e6c82e54c41e47de4b9144de5a444a2d1d8/Checklist.md?at=master&fileviewer=file-view-default) in the `Source` section. 
     - At some point, we will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road
     - ![repository.png](https://bitbucket.org/repo/ekyaeEE/images/1675859675-repository.png)
 + Configuration

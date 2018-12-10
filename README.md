@@ -16,6 +16,7 @@
 + Summary of set up
     - Read our latest [Checklist.md](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/8016be983143205aea02916fb2493889e0123605/Checklist.md?at=master&fileviewer=file-view-default) in the `Source` section. 
     - At some point, we will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road
+    - ![repository.png](https://bitbucket.org/repo/ekyaeEE/images/1675859675-repository.png)
 + Configuration
     - Depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). ~~In the future, can occur a migration to [Github](https://github.com/)~~. 
     - In the meantime, some repos have been migrated~~/mirrored~~ to [Github](https://github.com/imhicihu) or are going to be migrated to [Read the docs](https://readthedocs.org/) for our inner documentation and tutorials. Please, check the workflow of this migration [here](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental)

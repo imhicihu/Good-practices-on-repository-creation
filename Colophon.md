@@ -15,6 +15,8 @@
 	 - [Houndci](https://houndci.com/)
 * Code formatting
 	 - [Prettier](https://prettier.io)
+* Table of content generator (TOC)
+	 - [gh-md-toc](https://github.com/ekalinin/github-markdown-toc): markdown (mostly _de fact_ format in Github & Bitbucket for internal documentation
 * Video-tutorials
 	 - [Streamable](https://streamable.com/)
 * Code sharing

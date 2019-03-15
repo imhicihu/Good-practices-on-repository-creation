@@ -1,5 +1,6 @@
 # Software
-* Typos
+
+* Documentation (fixes _thypos_)
 	* Install [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen): makes sure everything you type is clear, effective, and mistake-free
 * Links checkers
 	* [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
@@ -17,6 +18,8 @@
 	 - [Prettier](https://prettier.io)
 * Table of content generator (TOC)
 	 - [gh-md-toc](https://github.com/ekalinin/github-markdown-toc): markdown (mostly _de fact_ format in Github & Bitbucket for internal documentation
+* Screen recorder
+	 - [Kap](https://getkap.co/)
 * Video-tutorials
 	 - [Streamable](https://streamable.com/)
 * Code sharing

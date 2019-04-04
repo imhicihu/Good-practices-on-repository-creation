@@ -1,8 +1,10 @@
 # Software
 
-* Documentation (fixes _thypos_)
+* Syntax issues
 	* Install [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen): makes sure everything you type is clear, effective, and mistake-free
-* Links checkers
+* Documentation (markdown online editor)
+	* [Writeme](http://writeme.mattstow.com/)
+* Online links checkers
 	* [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
 	* [LinkChecker](https://www.deadlinkchecker.com/)
 * Diagram creation tools:

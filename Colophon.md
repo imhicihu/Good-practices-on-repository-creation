@@ -1,12 +1,13 @@
 # Software
 
-* Syntax issues
-	* Install [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen): makes sure everything you type is clear, effective, and mistake-free
+* Syntax & semantic issues
+	 - Install [Writefull for Chrome](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related): gives feedback on your writing by checking your text against databases of correct language
+	 - Install [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen): makes sure everything you type is clear, effective, and mistake-free
 * Documentation (markdown online editor)
-	* [Writeme](http://writeme.mattstow.com/)
+	 - [Writeme](http://writeme.mattstow.com/)
 * Online links checkers
-	* [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
-	* [LinkChecker](https://www.deadlinkchecker.com/)
+	 - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
+	 - [LinkChecker](https://www.deadlinkchecker.com/)
 * Diagram creation tools:
      - [Websequencediagrams](https://www.websequencediagrams.com/)
 	 - [Draw.io](https://www.draw.io/)

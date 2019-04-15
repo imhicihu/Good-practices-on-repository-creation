@@ -27,7 +27,8 @@
 	 - [Streamable](https://streamable.com/)
 * Code sharing
 	 - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
-
+* Bibliographic searcher
+     - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
 
 * Documentation
      - [Developer certificate](https://developercertificate.org/)

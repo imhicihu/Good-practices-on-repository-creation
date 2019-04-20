@@ -20,7 +20,7 @@
 * Code formatting
 	 - [Prettier](https://prettier.io)
 * Table of content generator (TOC)
-	 - [gh-md-toc](https://github.com/ekalinin/github-markdown-toc): markdown (mostly _de fact_ format in Github & Bitbucket for internal documentation
+	 - [gh-md-toc](https://github.com/ekalinin/github-markdown-toc): markdown (mostly _de facto_ format in Github & Bitbucket for internal documentation)
 * Screen recorder
 	 - [Kap](https://getkap.co/)
 * Video-tutorials

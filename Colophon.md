@@ -32,6 +32,8 @@
 	 ![carbon.png](https://bitbucket.org/repo/ekyaeEE/images/1017584571-carbon.png)
 * Bibliographic searcher
      - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
+* Code of conduct
+	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for Open Source Projects
 
 * Documentation
      - [Developer certificate](https://developercertificate.org/)

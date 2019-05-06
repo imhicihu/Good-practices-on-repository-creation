@@ -12,9 +12,9 @@
      - [Websequencediagrams](https://www.websequencediagrams.com/)
 	 - [Draw.io](https://www.draw.io/)
 	 - [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
+	 - [flowchart.js](http://flowchart.js.org/)
 * Animations on css
 	 - [Animate.js](https://github.com/juliangarnier/anime/): css animations
-	 - [flowchart.js](http://flowchart.js.org/)
 * Pull requests (cleanliness method and better choices)
 	 - [Houndci](https://houndci.com/)
 * Code formatting

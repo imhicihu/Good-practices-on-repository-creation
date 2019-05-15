@@ -17,6 +17,8 @@
 	 - [Animate.js](https://github.com/juliangarnier/anime/): css animations
 * Pull requests (cleanliness method and better choices)
 	 - [Houndci](https://houndci.com/)
+* Optimizer & web performance
+     - [sitespeed.io](https://www.sitespeed.io/): performance & optimization web tools
 * Code formatting
 	 - [Prettier](https://prettier.io)
 * Table of content generator (TOC)

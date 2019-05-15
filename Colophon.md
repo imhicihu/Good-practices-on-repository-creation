@@ -34,7 +34,10 @@
      - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
 * Code of conduct
 	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for Open Source Projects
+* Accesibility
+	 - [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colorblindness in a web browser
 
+# Online resources
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
 	 - [Markdown snippets Bitbucket](https://bitbucket.org/tutorials/markdowndemo)

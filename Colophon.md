@@ -38,7 +38,15 @@
 	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for Open Source Projects
 * Accesibility
 	 - [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colorblindness in a web browser
+	 - [Toptal’s Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
 	 - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)
+	 - [Tanaguru contrast finder](https://github.com/Tanaguru/Contrast-Finder)
+	 - [Color Oracle](https://colororacle.org/): a free color blindness simulator for Windows, Mac and Linux
+	 - [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/): color blindness simulator
+* Readability
+	 - [Readability formulas](https://en.wikipedia.org/wiki/Readability#Popular_readability_formulas)
+	 - [readable.io](https://app.readable.com/text/?demo)
+	 - [Get your document's readability and level statistics](https://support.office.com/en-us/article/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2?ui=en-US&rs=en-US&ad=US)
 	 
 # Online resources
 * Documentation

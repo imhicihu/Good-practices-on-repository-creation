@@ -6,7 +6,7 @@
 ### What is this repository for? ###
 
 + Quick summary
-    * A _systematize-to_do-checklist_ formulæ when a repo is created
+    * A _systematize-to_do-checklist_ recipe when a repository is created
 + Version
     * 1.3
 
@@ -21,7 +21,7 @@
     - Depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). ~~In the future, can occur a migration to [Github](https://github.com/)~~. 
     - In the meantime, some repos have been migrated~~/mirrored~~ to [Github](https://github.com/imhicihu) or are going to be migrated to [Read the docs](https://readthedocs.org/) for our inner documentation and tutorials. Please, check the workflow of this migration [here](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental)
 + Dependencies
-    - _the less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
+    - _The less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
 + How to run tests
     - Create an account in [Bitbucket](https://bitbucket.org/) or [Github](https://github.com/) and begin to create your project
 + Deployment instructions

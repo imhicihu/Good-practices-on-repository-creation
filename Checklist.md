@@ -18,7 +18,7 @@
             + No issue tracker
             + Private issue tracker
             + Public issue tracker
-                * append this legend: `Any issue will be handled on a best-effort basis // Toda incidencia ser· manejada sobre la base del mejor esfuerzo posible`
+                * append this legend: `Any issue will be handled on a best-effort basis // Toda incidencia serÔøΩ manejada sobre la base del mejor esfuerzo posible`
     - In `Language` choose the code language that it will be use
     - Click on `Create repository`
 * once created the repository, go to --> `Settings`, then `Repository details`
@@ -34,7 +34,7 @@
     - Choose between: `No issue tracker`, `Private tracker` or `Public tracker`
 * go the `Snippets` section. Choose language template according nature's project 
     - english  --> `Template - Rationale (english)`
-    - spanish --> `Plantilla ColofÛn (EspaÒol)`
+    - spanish --> `Plantilla Colof√≥n (Espa√±ol)`
 * from `Snippets` section, create this files on the `Sources` section
     - `.gitignore`
     - `.editorconfig`
@@ -48,7 +48,7 @@
 
 ![rss.png](https://bitbucket.org/repo/AgG5e6d/images/2187833784-rss.png)
 
-* Choose which [license](https://choosealicense.com/) fit the general purpose of the project.
+* Choose which [license](https://choosealicense.com/) _fit_ the general purpose of the project.
 * If a repository is renamed, update the rss feed and urgently go to Feedly to update this new condition (see below). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
 ![feedly.png](https://bitbucket.org/repo/AgG5e6d/images/304797763-feedly.png)
 * verify all the links with this online [tool](https://www.deadlinkchecker.com/)

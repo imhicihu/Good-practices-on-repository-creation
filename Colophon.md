@@ -29,6 +29,8 @@
      - [FontBase](https://fontba.se/)
 * Video-tutorials
 	 - [Streamable](https://streamable.com/)
+* HTLM 2 pdf
+	 - [HTML2PDF](https://wkhtmltopdf.org)
 * Code sharing
 	 - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
 	 ![carbon.png](https://bitbucket.org/repo/ekyaeEE/images/1492497760-prototype.png)
@@ -39,7 +41,7 @@
 	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for Open Source Projects
 * Accesibility
 	 - [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colorblindness in a web browser
-	 - [Toptal�s Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
+	 - [Toptals Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
 	 - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)
 	 - [Tanaguru contrast finder](https://github.com/Tanaguru/Contrast-Finder)
 	 - [Color Oracle](https://colororacle.org/): a free color blindness simulator for Windows, Mac and Linux

@@ -15,6 +15,7 @@
 
 + Summary of set up
     - Read our latest [checklist](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/Checklist.md) in the `Source` section. 
+    - There are some [snippets](https://bitbucket.org/snippets/imhicihu/) created for the ocassion
     - At some point, we will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road
     - ![repository.png](https://bitbucket.org/repo/ekyaeEE/images/1675859675-repository.png)
 + Configuration

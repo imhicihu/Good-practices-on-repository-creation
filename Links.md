@@ -28,6 +28,9 @@
 * [Docsify](https://docsify.js.org/#/) 
 * [Docusaurus](https://docusaurus.io/)
 
+## Data visualization
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+
 ## To read
 * ~~https://joedicastro.com/sincronizar-bitbucket-y-github.html~~
 

@@ -5,6 +5,9 @@
 	 - Install [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen): makes sure everything you type is clear, effective, and mistake-free
 * Documentation (markdown online editor)
 	 - [Writeme](http://writeme.mattstow.com/)
+	 - [markdownify](http://www.amitmerchant.com/markdownify-web)
+	 - [Hashify](http://hashify.me)
+	 - [Dillinger](https://dillinger.io)
 * Online links checkers
 	 - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
 	 - [LinkChecker](https://www.deadlinkchecker.com/)

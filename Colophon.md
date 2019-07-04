@@ -54,6 +54,16 @@
 	 - [Tanaguru contrast finder](https://github.com/Tanaguru/Contrast-Finder)
 	 - [Color Oracle](https://colororacle.org/): a free color blindness simulator for Windows, Mac and Linux
 	 - [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/): color blindness simulator
+* Licence status
+	 - [Choosing an Open Source License](https://blog.github.com/2013-07-15-choosing-an-open-source-license)
+	 - [Choose a license](https://choosealicense.com)
+	 - ![license](https://bitbucket.org/repo/ekyaeEE/images/1238371074-appendix.png)
+	 - [Github OSS license](https://github.com/github/choosealicense.com)
+	 - [Open source licenses](https://opensource.org/licenses)
+	 - [Creative Commons licenses -kind-of](https://creativecommons.org/choose)
+	 - [Comparison of free and open-source software licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
+	 - [Open Source Licenses Comparison Guide](https://itsfoss.com/open-source-licenses-explained)
+	 - [Software Licenses in Plain English](https://tldrlegal.com)
 * Readability
 	 - [Readability formulas](https://en.wikipedia.org/wiki/Readability#Popular_readability_formulas)
 	 - [readable.io](https://app.readable.com/text/?demo)

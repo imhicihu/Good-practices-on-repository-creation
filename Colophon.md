@@ -8,6 +8,9 @@
 	 - [markdownify](http://www.amitmerchant.com/markdownify-web)
 	 - [Hashify](http://hashify.me)
 	 - [Dillinger](https://dillinger.io)
+* Documentation (online hosting)
+	 - [Read the docs](https://readthedocs.org/)
+	 - [Mkdocs](http://www.mkdocs.org/)
 * Online links checkers
 	 - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
 	 - [LinkChecker](https://www.deadlinkchecker.com/)
@@ -42,6 +45,8 @@
      - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
 * Code of conduct
 	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for Open Source Projects
+* Code convention
+	 - _Vide_ [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
 * Accesibility
 	 - [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colorblindness in a web browser
 	 - [Toptals Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)

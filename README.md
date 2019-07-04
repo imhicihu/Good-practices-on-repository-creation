@@ -1,6 +1,9 @@
+![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+![status-archived](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
+![issues-closed](https://img.shields.io/badge/issues-closed-green.svg)
 # Rationale #
 
-* The purpose of this repo is a way of checklist when we create a brand new repository.
+* The purpose of this repository is a way of checklist when we create a brand new repository.
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
@@ -20,7 +23,7 @@
     - ![repository.png](https://bitbucket.org/repo/ekyaeEE/images/1675859675-repository.png)
 + Configuration
     - Depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). ~~In the future, can occur a migration to [Github](https://github.com/)~~. 
-    - In the meantime, some repos have been migrated~~/mirrored~~ to [Github](https://github.com/imhicihu) or are going to be migrated to [Read the docs](https://readthedocs.org/) for our inner documentation and tutorials. Please, check the workflow of this migration [here](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental)
+    - In the meantime, some repos have been migrated~~/mirrored~~ to [Github](https://github.com/imhicihu) or some documentation to [Read the docs](https://readthedocs.org/) for our inner docs and tutorials. Please, check the workflow of this migration [here](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental)
 + Dependencies
     - _The less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
 + How to run tests

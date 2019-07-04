@@ -43,7 +43,6 @@
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues)
-* [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
 
 ### Changelog ###
 

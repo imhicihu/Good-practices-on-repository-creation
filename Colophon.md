@@ -82,3 +82,5 @@
 	 - [Markdown snippets Bitbucket](https://bitbucket.org/tutorials/markdowndemo)
 	 - [Markdown snippets GitHub](https://guides.github.com/features/mastering-markdown/)
 	 - [John Gruber's original markdown syntax](https://daringfireball.net/projects/markdown/syntax.text)
+* GIF treatment
+	 - [Ezgif](https://ezgif.com/): ```.gif``` optimization and resizing

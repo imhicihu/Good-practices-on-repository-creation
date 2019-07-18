@@ -9,6 +9,7 @@
 	 - [Hashify](http://hashify.me)
 	 - [Dillinger](https://dillinger.io)
 * Documentation (online hosting)
+	 - [GitBook](https://www.gitbook.com/)
 	 - [Read the docs](https://readthedocs.org/)
 	 - [Mkdocs](http://www.mkdocs.org/)
 * Online links checkers

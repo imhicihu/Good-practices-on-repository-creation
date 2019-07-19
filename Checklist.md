@@ -52,3 +52,4 @@
 * If a repository is renamed, update the rss feed and urgently go to Feedly to update this new condition (see below). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
 ![feedly.png](https://bitbucket.org/repo/AgG5e6d/images/304797763-feedly.png)
 * verify all the links with this online [tool](https://www.deadlinkchecker.com/)
+* Host most of digital assets as possible: `.jpeg`, `.gif`, `.png`, `.svg` either Bitbucket or Github

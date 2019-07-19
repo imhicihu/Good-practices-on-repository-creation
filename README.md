@@ -1,6 +1,6 @@
-![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
-![status-archived](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
-![issues-closed](https://img.shields.io/badge/issues-closed-green.svg)
+![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
+![status-archived](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
+![issues-closed](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
 # Rationale #
 
 * The purpose of this repository is a way of checklist when we create a brand new repository.

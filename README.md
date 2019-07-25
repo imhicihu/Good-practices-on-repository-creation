@@ -40,6 +40,15 @@
 * Other guidelines
      - This repo is a _massive_ guideline / [checklist](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/Checklist.md)
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [One page website](https://bitbucket.org/imhicihu/one-page-website/src/)
+     - [ISKM 2017](https://bitbucket.org/imhicihu/iskm2017/src/)
+     - [Open Journal System (OJS) project](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/)
+     - [Temas Medievales project](https://bitbucket.org/imhicihu/temas-medievales-project/src/)
+     - [Website, et alia](https://bitbucket.org/imhicihu/website-add-ons-et-alia/src/)
+     
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues)
@@ -51,9 +60,9 @@
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     - Leave a comment or just push a `pull request` or contact us through our `Board` (see below)
+	 - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-     - Open to contributions to enhance the path and time in the repository creation. Check in the *[Boards](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/addon/bitbucket-trello-addon/trello-board)* section
+     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Legal ###
 

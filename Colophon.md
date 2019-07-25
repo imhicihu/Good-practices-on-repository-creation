@@ -32,6 +32,7 @@
 	 - [gh-md-toc](https://github.com/ekalinin/github-markdown-toc): markdown (mostly _de facto_ format in Github & Bitbucket for internal documentation)
 * Screen recorder
 	 - [Kap](https://getkap.co/)
+	 - [LICEcap](https://www.cockos.com/licecap/)
 * Font management:
      - [FontBase](https://fontba.se/)
 * Video-tutorials

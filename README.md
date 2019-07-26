@@ -35,12 +35,12 @@
 ### Contribution guidelines ###
 
 * Writing tests
-     - Fork this repo. Open an issue-pull request or just comment the workflow described. Check our [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
+     - Fork this repo. Open an issue-pull request or just comment the workflow described. Check our [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
 * Code review
      - There is no code. Just time-savers, reminders and rules of good practice to optimize _Time_ (a human creation)
 * Other guidelines
      - This repo is a _massive_ guideline / [checklist](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/Checklist.md)
-     - There is a [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
+     - There is a [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
 
 ### Related repositories ###
 

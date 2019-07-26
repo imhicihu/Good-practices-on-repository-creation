@@ -1,6 +1,7 @@
+![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
 ![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![status-archived](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
 ![issues-closed](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
+
 # Rationale #
 
 * The purpose of this repository is a way of checklist when we create a brand new repository.
@@ -29,16 +30,17 @@
 + How to run tests
     - Create an account in [Bitbucket](https://bitbucket.org/) or [Github](https://github.com/) and begin to create your project
 + Deployment instructions
-    - No mandatory "_to follow_". It is a "_good practice_" exercise and follow ~~my~~ our needs
+    - No mandatory "_to follow_". It is a "_good practice_" exercise and follow our needs
 
 ### Contribution guidelines ###
 
 * Writing tests
-     - Fork this repo. Open an issue-pull request or just comment the workflow described
+     - Fork this repo. Open an issue-pull request or just comment the workflow described. Check our [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
 * Code review
      - There is no code. Just time-savers, reminders and rules of good practice to optimize _Time_ (a human creation)
 * Other guidelines
      - This repo is a _massive_ guideline / [checklist](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/Checklist.md)
+     - There is a [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
 
 ### Related repositories ###
 

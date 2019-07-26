@@ -1,6 +1,6 @@
 ![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
 ![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-closed](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
+![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
 # Rationale #
 
@@ -23,8 +23,8 @@
     - At some point, we will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road
     - ![repository.png](https://bitbucket.org/repo/ekyaeEE/images/1675859675-repository.png)
 + Configuration
-    - Depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). ~~In the future, can occur a migration to [Github](https://github.com/)~~. 
-    - In the meantime, some repos have been migrated~~/mirrored~~ to [Github](https://github.com/imhicihu) or some documentation to [Read the docs](https://readthedocs.org/) for our inner docs and tutorials. Please, check the workflow of this migration [here](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental)
+    - Depends mostly on Bitbucket, [Markdown](https://en.wikipedia.org/wiki/Markdown). In the future, can occur a migration to [Github](https://bitbucket.org/imhicihu/github-transfers/). 
+    - In the meantime, some repos have been migrated/mirrored to [Github](https://github.com/imhicihu) or some documentation to [Read the docs](https://readthedocs.org/) for our inner docs and tutorials. Please, check the workflow of this migration [here](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental)
 + Dependencies
     - _The less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
 + How to run tests
@@ -49,6 +49,7 @@
      - [ISKM 2017](https://bitbucket.org/imhicihu/iskm2017/src/)
      - [Open Journal System (OJS) project](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/)
      - [Temas Medievales project](https://bitbucket.org/imhicihu/temas-medievales-project/src/)
+     - [Github Transfers](https://bitbucket.org/imhicihu/github-transfers/src/)
      - [Website, et alia](https://bitbucket.org/imhicihu/website-add-ons-et-alia/src/)
      
 ### Issues ###

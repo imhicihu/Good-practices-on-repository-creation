@@ -22,6 +22,8 @@
 * [Gitignore collection (examples)](https://github.com/github/gitignore)
 * [Github ignore files -good practices](https://help.github.com/ignore-files/)
 
+## Markdown
+* [Markdown tutorial](https://www.markdowntutorial.com/)
 
 ## Documentation 
 * [DocumentUp](https://documentup.com)

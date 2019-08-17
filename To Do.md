@@ -6,3 +6,4 @@
 * https://data.world/resources/reports-and-tools/modern-data-project-checklist/
 * https://www.pushbullet.com/
 * ~~Migrate Del.icio.us gathered links to Evernote~~
+* https://www.whatismybrowser.com/minimum-system-requirements/

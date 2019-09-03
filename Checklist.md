@@ -19,15 +19,17 @@
             + Private issue tracker
             + Public issue tracker
                 * append this legend: `Any issue will be handled on a best-effort basis // Toda incidencia será manejada sobre la base del mejor esfuerzo posible`
-    - In `Language` choose the code language that it will be use
+    - In `Language` choose the code language that it will be use (mostly)
     - Click on `Create repository`
 * once created the repository, go to --> `Settings`, then `Repository details`
     - append an avatar
         - size: no more than 1Mb in size
         - file type allowed: `PNG`, `Gif` or `Jpeg`
-    - enable the `Boards` section
-        - inside of it, add this card: `Proposals \ Propuestas`
-        - by default: `Private`. Toggle to `Public`
+    - ~~enable the `Boards` section~~
+        - ~~inside of it, add this card: `Proposals \ Propuestas`~~
+        - ~~by default: `Private`. Toggle to `Public`~~
+    - go to --> `Settings`, then `Trello` section
+        - Tap `Enable Trello`
         ![boards.png](https://bitbucket.org/repo/EBnakg/images/2832624469-boards.png)
     - introduce a `Google Analytics key` in the option with the same name
 * on `Settings` go to `Issue tracker`

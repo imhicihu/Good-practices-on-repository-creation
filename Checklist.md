@@ -30,7 +30,7 @@
         - ~~by default: `Private`. Toggle to `Public`~~
     - go to --> `Settings`, then `Trello` section
         - Tap `Enable Trello`
-        ![boards.png](https://bitbucket.org/repo/EBnakg/images/2832624469-boards.png)
+        ![boards.png](https://bitbucket.org/repo/ekyaeEE/images/15621379-trello_enabled.png)
     - introduce a `Google Analytics key` in the option with the same name
 * on `Settings` go to `Issue tracker`
     - Choose between: `No issue tracker`, `Private tracker` or `Public tracker`

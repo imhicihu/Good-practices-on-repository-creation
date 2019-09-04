@@ -38,13 +38,13 @@
     - english  --> `Template - Rationale (english)`
     - spanish --> `Plantilla Colofón (Español)`
 * from `Snippets` section, create this files on the `Sources` section
-    - `.gitignore`
-    - `.editorconfig`
-    - `.gitattributes`
+    - [`.gitignore`](https://bitbucket.org/snippets/imhicihu/ak84yb/gitignore)
+    - [`.editorconfig`](https://bitbucket.org/snippets/imhicihu/A8akG5/editorconfig)
+    - [`.gitattributes`](https://bitbucket.org/snippets/imhicihu/Kzxq86/gitattributes)
 * Then, create this files in the same section:
-    - `Colophon.md`
+    - [`Colophon.md`](https://bitbucket.org/snippets/imhicihu/4ep4g6/template-colophonmd)
     - `To Do.md`
-    - `Bibliography.md`
+    - [`Bibliography.md`](https://bitbucket.org/snippets/imhicihu/xAMydX/bibliography-template)
     - `Links.md`
 * create a first issue. Automatically it will generate a RSS feed. Copy the URL of the rss feed and append to [Feedly](feedly.com). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
 

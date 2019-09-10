@@ -31,6 +31,9 @@
 * [Docsify](https://docsify.js.org/#/) 
 * [Docusaurus](https://docusaurus.io/)
 
+## Documentation (styling and writing)
+* [Documentation Guide by WritetheDocs](http://www.writethedocs.org/guide/)
+
 ## Data visualization
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 

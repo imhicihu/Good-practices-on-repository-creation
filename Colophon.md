@@ -35,10 +35,15 @@
 	 - [LICEcap](https://www.cockos.com/licecap/)
 * Font management:
      - [FontBase](https://fontba.se/)
+* Local server environment on MacOSX
+     - [Mamp](https://www.mamp.info)
+     - [httpster](https://github.com/SimbCo/httpster)
 * Video-tutorials
 	 - [Streamable](https://streamable.com/)
 * HTLM 2 pdf
 	 - [HTML2PDF](https://wkhtmltopdf.org)
+* Terminal recorder
+     - [Asciinema](https://asciinema.org/)
 * Code sharing
 	 - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
 	 ![carbon.png](https://bitbucket.org/repo/ekyaeEE/images/1492497760-prototype.png)
@@ -75,7 +80,14 @@
      - [Skim](https://skim-app.sourceforge.io) PDF reader and note-taker for macOSX. It is designed to help you read and annotate scientific papers in PDF file format
 * PDF assembly
      - [Alchemy](https://github.com/dawnlabs/alchemy): file converter and merger (mainly to merge lots of pdfs into one)
-     ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](https://bitbucket.org/repo/5qA7gpA/images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif) 
+     ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](https://bitbucket.org/repo/5qA7gpA/images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif)
+* HTTPs:
+     - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
+* Link checker:
+     - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker
+* Graphics:
+     - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
+     - [Image Shrinker](https://github.com/stefansl/image-shrinker): minify images and graphics 
 
 # Online resources
 

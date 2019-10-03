@@ -8,6 +8,8 @@
 	 - [markdownify](http://www.amitmerchant.com/markdownify-web)
 	 - [Hashify](http://hashify.me)
 	 - [Dillinger](https://dillinger.io)
+* Table generator (markdown)
+	 - [Tables generator](https://www.tablesgenerator.com/markdown_tables)
 * Documentation (online hosting)
 	 - [GitBook](https://www.gitbook.com/)
 	 - [Read the docs](https://readthedocs.org/)

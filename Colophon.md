@@ -29,6 +29,9 @@
 	 - [Houndci](https://houndci.com/)
 * Optimizer & web performance
      - [sitespeed.io](https://www.sitespeed.io/): performance & optimization web tools
+* Code editor
+	 - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
+	 - [Atom Editor](http://atom.io)
 * Code formatting
 	 - [Prettier](https://prettier.io)
 * Table of content generator (TOC)

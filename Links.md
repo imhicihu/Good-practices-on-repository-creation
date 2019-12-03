@@ -43,3 +43,4 @@
 ## Legal
 * http://catalis.uns.edu.ar/doku/doku.php/acceso_a_bases_isis_desde_python   (take in count the MIT License model)
 * https://opensource.org/licenses/EPL-2.0
+* [Contributor Covenant - Code of Conduct](https://www.contributor-covenant.org/)

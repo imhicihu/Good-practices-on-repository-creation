@@ -70,6 +70,8 @@
 * Licence status
 	 - [Choosing an Open Source License](https://blog.github.com/2013-07-15-choosing-an-open-source-license)
 	 - [Choose a license](https://choosealicense.com)
+	 - [The MIT License (MIT)](https://mit-license.org/)
+	 - [MIT License generator](https://www.richie-bendall.ml/mit-license-generator/): Generate your own MIT License
 	 - ![license](https://bitbucket.org/repo/ekyaeEE/images/1238371074-appendix.png)
 	 - [Github OSS license](https://github.com/github/choosealicense.com)
 	 - [Open source licenses](https://opensource.org/licenses)

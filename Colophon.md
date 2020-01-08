@@ -93,6 +93,8 @@
      - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
 * Link checker:
      - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker
+* Table converter
+     - [Table convert](https://tableconvert.com/): converter to a plethora of formats
 * Graphics:
      - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
      - [Image Shrinker](https://github.com/stefansl/image-shrinker): minify images and graphics 

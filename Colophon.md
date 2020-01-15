@@ -101,6 +101,8 @@
 
 # Online resources
 
+* Image conpressor
+	 - [Sqoosh](https://squoosh.app/):
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
 	 - [Markdown snippets Bitbucket](https://bitbucket.org/tutorials/markdowndemo)

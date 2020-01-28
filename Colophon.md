@@ -15,9 +15,6 @@
 	 - [GitBook](https://www.gitbook.com/)
 	 - [Read the docs](https://readthedocs.org/)
 	 - [Mkdocs](http://www.mkdocs.org/)
-* Online links checkers
-	 - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
-	 - [LinkChecker](https://www.deadlinkchecker.com/)
 * Diagram creation tools:
      - [Websequencediagrams](https://www.websequencediagrams.com/)
 	 - [Draw.io](https://www.draw.io/)
@@ -36,7 +33,7 @@
 	 - [Prettier](https://prettier.io)
 * Table of content generator (TOC)
 	 - [gh-md-toc](https://github.com/ekalinin/github-markdown-toc): markdown (mostly _de facto_ format in Github & Bitbucket for internal documentation)
-* Screen recorder
+* Screen recorder:
 	 - [Kap](https://getkap.co/)
 	 - [LICEcap](https://www.cockos.com/licecap/)
 * Font management:
@@ -44,22 +41,23 @@
 * Local server environment on MacOSX
      - [Mamp](https://www.mamp.info)
      - [httpster](https://github.com/SimbCo/httpster)
-* Video-tutorials
+* Video-tutorials:
 	 - [Streamable](https://streamable.com/)
 * HTLM 2 pdf
 	 - [HTML2PDF](https://wkhtmltopdf.org)
-* Terminal recorder
+* Terminal recorder:
      - [Asciinema](https://asciinema.org/)
-* Code sharing
+* Code sharing:
 	 - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
 	 ![carbon.png](https://bitbucket.org/repo/ekyaeEE/images/1492497760-prototype.png)
 	 > This is our [custom preset](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/downloads/carbon-config.json)
 * Bibliographic searcher
-     - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
-* Code of conduct
-	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for Open Source Projects
+     - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers
+* Code of conduct:
+	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for open source projects
 * Code convention
 	 - _Vide_ [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
+	 - Check our [pull request style guide](https://bitbucket.org/snippets/imhicihu/qnzLKk/pull-request-style-guides)
 * Accesibility
 	 - [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colorblindness in a web browser
 	 - [Toptals Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
@@ -67,7 +65,7 @@
 	 - [Tanaguru contrast finder](https://github.com/Tanaguru/Contrast-Finder)
 	 - [Color Oracle](https://colororacle.org/): a free color blindness simulator for Windows, Mac and Linux
 	 - [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/): color blindness simulator
-* Licence status
+* License status
 	 - [Choosing an Open Source License](https://blog.github.com/2013-07-15-choosing-an-open-source-license)
 	 - [Choose a license](https://choosealicense.com)
 	 - [The MIT License (MIT)](https://mit-license.org/)
@@ -102,7 +100,9 @@
 # Online resources
 
 * Image conpressor
-	 - [Sqoosh](https://squoosh.app/):
+	 - [Sqoosh](https://squoosh.app/): Google's 'techie' response
+* Text readability
+	 - [Abrevio](https://abrev.io/): en español
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
 	 - [Markdown snippets Bitbucket](https://bitbucket.org/tutorials/markdowndemo)
@@ -110,3 +110,6 @@
 	 - [John Gruber's original markdown syntax](https://daringfireball.net/projects/markdown/syntax.text)
 * GIF treatment
 	 - [Ezgif](https://ezgif.com/): ```.gif``` optimization and resizing
+* Online links checkers
+	 - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
+	 - [LinkChecker](https://www.deadlinkchecker.com/)

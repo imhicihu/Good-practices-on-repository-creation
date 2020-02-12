@@ -113,3 +113,5 @@
 * Online links checkers
 	 - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
 	 - [LinkChecker](https://www.deadlinkchecker.com/)
+* Markup validator
+     - [Markup Validation Service](https://validator.w3.org/#validate_by_input)

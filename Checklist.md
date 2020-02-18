@@ -19,6 +19,7 @@
             + Private issue tracker
             + Public issue tracker
                 * append this legend: `Any issue will be handled on a best-effort basis // Toda incidencia será manejada sobre la base del mejor esfuerzo posible`
+            + Disable `Anonymous users can create issues` option
     - In `Language` choose the code language that it will be use (mostly)
     - Click on `Create repository`
 * once created the repository, go to --> `Settings`, then `Repository details`

@@ -43,6 +43,7 @@
     - [`.editorconfig`](https://bitbucket.org/snippets/imhicihu/A8akG5/editorconfig)
     - [`.gitattributes`](https://bitbucket.org/snippets/imhicihu/Kzxq86/gitattributes)
     - [`android.gitignore`](https://bitbucket.org/snippets/imhicihu/BMX8ja)
+    - [`.hgtags`](https://stackoverflow.com/questions/4472804/what-is-the-purpose-of-having-hgtags)
 * Then, create this files in the same section:
     - [`Colophon.md`](https://bitbucket.org/snippets/imhicihu/4ep4g6/template-colophonmd)
     - `To Do.md`

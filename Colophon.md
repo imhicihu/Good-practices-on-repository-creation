@@ -101,6 +101,8 @@
 
 * Image conpressor
 	 - [Sqoosh](https://squoosh.app/): Google's 'techie' response
+* Graphic badges
+	 - [For the badge](https://forthebadge.com/)
 * Text readability
 	 - [Abrevio](https://abrev.io/): en español
 * Documentation

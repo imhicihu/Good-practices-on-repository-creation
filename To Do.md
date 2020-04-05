@@ -12,3 +12,4 @@
 * ~~Migrate Del.icio.us gathered links to Evernote~~
 * ~~https://www.netlify.com/~~
 * https://www.whatismybrowser.com/minimum-system-requirements/
+* https://allcontributors.org/docs/en/bot/usage  --> `bot`

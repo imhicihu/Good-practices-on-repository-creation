@@ -104,6 +104,8 @@
 	 - [Sqoosh](https://squoosh.app/): Google's 'techie' response
 * Graphic badges
 	 - [For the badge](https://forthebadge.com/)
+* Linter
+     - [WebHint](https://github.com/webhintio/hint): improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors
 * Text readability
 	 - [Abrevio](https://abrev.io/): en español
 * Documentation

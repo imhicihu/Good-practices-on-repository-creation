@@ -78,6 +78,7 @@
 	 - [Comparison of free and open-source software licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
 	 - [Open Source Licenses Comparison Guide](https://itsfoss.com/open-source-licenses-explained)
 	 - [Software Licenses in Plain English](https://tldrlegal.com)
+	 - [Unlicense](https://unlicense.org/): set your code free
 * Readability
 	 - [Readability formulas](https://en.wikipedia.org/wiki/Readability#Popular_readability_formulas)
 	 - [readable.io](https://app.readable.com/text/?demo)

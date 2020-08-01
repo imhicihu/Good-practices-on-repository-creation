@@ -39,6 +39,7 @@
     - english  --> [`Template Colophon (English)`](https://bitbucket.org/snippets/imhicihu/4ep4g6/template-colophon-english)
     - spanish --> [`Plantilla Colofón (Español)`](https://bitbucket.org/snippets/imhicihu/xeMxGj/plantilla-colof-n-espa-ol)
 * from `Snippets` section, create this files on the `Sources` section
+    - [README.md](https://bitbucket.org/imhicihu/workspace/snippets/zea8aE/template-rationale-english)
     - [`.gitignore`](https://bitbucket.org/snippets/imhicihu/ak84yb/gitignore)
     - [`.editorconfig`](https://bitbucket.org/snippets/imhicihu/A8akG5/editorconfig)
     - [`.gitattributes`](https://bitbucket.org/snippets/imhicihu/Kzxq86/gitattributes)
@@ -55,7 +56,7 @@
 
 * Choose which [license](https://choosealicense.com/) _fit_ the general purpose of the project:
     - [MIT License](https://bitbucket.org/snippets/imhicihu/Arozob/mit-license)
-    - [Creative Commons Attribution 4.0 International Public License]](https://bitbucket.org/snippets/imhicihu/qnzz7q/creative-commons-legal-documentationmd)
+    - [Creative Commons Attribution 4.0 International Public License](https://bitbucket.org/snippets/imhicihu/qnzz7q/creative-commons-legal-documentationmd)
 * If a repository is renamed, update the rss feed and urgently go to Feedly to update this new condition (see below). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
 ![feedly.png](https://bitbucket.org/repo/AgG5e6d/images/304797763-feedly.png)
 * verify all the links with this online [tool](https://www.deadlinkchecker.com/)

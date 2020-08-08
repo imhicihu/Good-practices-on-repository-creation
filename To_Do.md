@@ -1,3 +1,6 @@
+## Password management
+* [1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source)
+
 ## Bibliography
 * https://www.nature.com/articles/nmeth.1618 (check DOI)
 

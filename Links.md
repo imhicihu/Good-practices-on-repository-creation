@@ -45,3 +45,4 @@
 * https://opensource.org/licenses/EPL-2.0
 * [Contributor Covenant - Code of Conduct](https://www.contributor-covenant.org/)
 * [MIT License](https://github.com/remy/mit-license)
+* [Software licenses in plain english](https://tldrlegal.com/)

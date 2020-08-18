@@ -18,7 +18,7 @@
             + No issue tracker
             + Private issue tracker
             + Public issue tracker
-                * append this legend: `Any issue will be handled on a best-effort basis // Toda incidencia será manejada sobre la base del mejor esfuerzo posible`
+                * append this legend: `Any issue will be handled on a best-effort basis All efforts have been made to keep the source as clean and readable as possible. //  Cualquier problema se manejará de la mejor manera posible. Se han realizado todos los esfuerzos para mantener la documentación y el código fuente lo más limpia y legible posible.`
             + Disable `Anonymous users can create issues` option
     - In `Language` choose the code language that it will be use (mostly)
     - Click on `Create repository`
@@ -50,7 +50,7 @@
     - `To Do.md`
     - [`Bibliography.md`](https://bitbucket.org/snippets/imhicihu/xAMydX/bibliography-template)
     - `Links.md`
-* create a first issue. Automatically it will generate a RSS feed. Copy the URL of the rss feed and append to [Feedly](feedly.com). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
+* create a first issue. Automatically it will generate a `RSS feed`. Copy the URL of the `RSS feed` and append to [Feedly](feedly.com). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
 
 ![rss.png](https://bitbucket.org/repo/AgG5e6d/images/2187833784-rss.png)
 

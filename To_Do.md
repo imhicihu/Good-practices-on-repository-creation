@@ -13,6 +13,7 @@
 * https://data.world/resources/reports-and-tools/modern-data-project-checklist/
 * https://www.pushbullet.com/
 * ~~Migrate Del.icio.us gathered links to Evernote~~
-* ~~https://www.netlify.com/~~
+* https://www.netlify.com/
 * https://www.whatismybrowser.com/minimum-system-requirements/
 * https://allcontributors.org/docs/en/bot/usage  --> `bot`
+* https://sonarcloud.io/ (code quality across boards & repos)

@@ -1,5 +1,7 @@
 # Software
 
+* Code documentation
+	 - [Devdocs.io](https://devdocs.io/): Supports `localstorage` mode
 * Syntax & semantic issues
 	 - Install [Writefull for Chrome](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related): gives feedback on your writing by checking your text against databases of correct language
 	 - Install [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen): makes sure everything you type is clear, effective, and mistake-free
@@ -71,7 +73,7 @@
 	 - [Choose a license](https://choosealicense.com)
 	 - [The MIT License (MIT)](https://mit-license.org/)
 	 - [MIT License generator](https://www.richie-bendall.ml/mit-license-generator/): Generate your own MIT License
-	 - ![license](https://bitbucket.org/repo/ekyaeEE/images/1238371074-appendix.png)
+	   ![license](https://bitbucket.org/repo/ekyaeEE/images/1238371074-appendix.png)
 	 - [Github OSS license](https://github.com/github/choosealicense.com)
 	 - [Open source licenses](https://opensource.org/licenses)
 	 - [Creative Commons licenses -kind-of](https://creativecommons.org/choose)

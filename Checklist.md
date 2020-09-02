@@ -32,6 +32,8 @@
     - go to --> `Settings`, then `Trello` section
         - Tap `Enable Trello`
         ![boards.png](https://bitbucket.org/repo/ekyaeEE/images/15621379-trello_enabled.png)
+        - Create a `Trello Board` according with the new repository created. Give the same name as repository
+        - Inside this brand new board, enable `Public`. In `Labels` enable `Enable color blind friendly mode`
     - introduce a `Google Analytics key` in the option with the same name
 * on `Settings` go to `Issue tracker`
     - Choose between: `No issue tracker`, `Private tracker` or `Public tracker`

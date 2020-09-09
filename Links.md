@@ -21,6 +21,7 @@
 * [Github Pages resources](https://github.com/jekyll/jekyll/blob/master/docs/_docs/resources.md#useful-guides)
 * [Gitignore collection (examples)](https://github.com/github/gitignore)
 * [Github ignore files -good practices](https://help.github.com/ignore-files/)
+* [Github's dot files](https://dotfiles.github.io/)
 
 ## Markdown
 * [Markdown tutorial](https://www.markdowntutorial.com/)

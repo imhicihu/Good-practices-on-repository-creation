@@ -95,6 +95,7 @@
      - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
 * Link checker:
      - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker
+	 - [Dead link checker](https://www.deadlinkchecker.com/)
 * Table converter
      - [Table convert](https://tableconvert.com/): converter to a plethora of formats
 * Graphics:

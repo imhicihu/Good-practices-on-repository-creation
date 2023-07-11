@@ -61,7 +61,7 @@
 * Code convention
 	 - _Vide_ [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
 	 - Check our [pull request style guide](https://bitbucket.org/snippets/imhicihu/qnzLKk/pull-request-style-guides)
-* Accesibility
+* Accessibility
 	 - [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colorblindness in a web browser
 	 - [Toptals Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
 	 - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)

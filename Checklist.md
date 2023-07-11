@@ -1,8 +1,7 @@
 ## Introduction
 * This is a _bona-fide_ effort, as acts just a simple _checklist_. 
 * It fills our needs, but in general, can sum a lot of time gained. Give it a try!
-
-![repository.png](https://bitbucket.org/repo/ekyaeEE/images/1675859675-repository.png)
+![repository.png](images/1675859675-repository.png)
 
 ## Steps
 * verify that your internet connection is running and stable
@@ -31,7 +30,7 @@
         - ~~by default: `Private`. Toggle to `Public`~~
     - go to --> `Settings`, then `Trello` section
         - Tap `Enable Trello`
-        ![boards.png](https://bitbucket.org/repo/ekyaeEE/images/15621379-trello_enabled.png)
+        ![boards.png](images/15621379-trello_enabled.png)
         - Create a `Trello Board` according with the new repository created. Give the same name as repository
         - Inside this brand new board, enable `Public`. In `Labels` enable `Enable color blind friendly mode`
     - introduce a `Google Analytics key` in the option with the same name
@@ -53,13 +52,12 @@
     - [`Bibliography.md`](https://bitbucket.org/snippets/imhicihu/xAMydX/bibliography-template)
     - `Links.md`
 * create a first issue. Automatically it will generate a `RSS feed`. Copy the URL of the `RSS feed` and append to [Feedly](feedly.com). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
-
-![rss.png](https://bitbucket.org/repo/AgG5e6d/images/2187833784-rss.png)
+![rss.png](images/Rss.png)
 
 * Choose which [license](https://choosealicense.com/) _fit_ the general purpose of the project:
     - [MIT License](https://bitbucket.org/snippets/imhicihu/Arozob/mit-license)
     - [Creative Commons Attribution 4.0 International Public License](https://bitbucket.org/snippets/imhicihu/qnzz7q/creative-commons-legal-documentationmd)
 * If a repository is renamed, update the rss feed and urgently go to Feedly to update this new condition (see below). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
-![feedly.png](https://bitbucket.org/repo/AgG5e6d/images/304797763-feedly.png)
+![feedly.png](images/Feedly.png)
 * verify all the links with this online [tool](https://www.deadlinkchecker.com/)
 * Host most of digital assets as possible: `.jpeg`, `.gif`, `.png`, `.svg` either Bitbucket or Github

@@ -11,7 +11,7 @@
 * https://github.com/lando/lando (_not tested_)
 * https://github.com/RichardLitt/standard-readme  (foundations of how-to generate precise documentation)
 * https://confluence.atlassian.com/jirasoftware/blog/2015/07/workflow-automation-triggers
-* [nicedoc.io](https://github.com/IBM/nicedoc.io) is a presentation layer to beautify any doc file hosted on github.com
+* ~~[nicedoc.io](https://github.com/IBM/nicedoc.io) is a presentation layer to beautify any doc file hosted on github.com~~
 
 ## Github stuff:
 * [GitHub's Markdown guide](https://guides.github.com/features/mastering-markdown/)

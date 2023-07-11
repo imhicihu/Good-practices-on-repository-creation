@@ -16,7 +16,7 @@
 
 + Summary of set up
     - Read our latest [checklist](Checklist.md). 
-    - There are some [snippets](https://bitbucket.org/snippets/imhicihu/) created for the occasion
+    - There are some [snippets](https://bitbucket.org/imhicihu/workspace/snippets/) created for the occasion
     - At some point, we will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road
       ![repository.png](images/68747470733a2f2f6269746275636b65742e6f72672f7265706f2f656b79616545452f696d616765732f313637353835393637352d7265706f7369746f72792e706e67.png)
 + Dependencies
@@ -40,7 +40,7 @@
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/commits/) section for the current status
+* Please check the [Commits](https://github.com/imhicihu/Good-practices-on-repository-creation/commits/master) section for the current status
 
 ### Who do I talk to? ###
 
@@ -50,7 +50,6 @@
 ### Code of Conduct
 
 * Please, check our [Code of Conduct](code_of_conduct.md)
-
 
 ### Legal ###
 

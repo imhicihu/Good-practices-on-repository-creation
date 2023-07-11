@@ -52,7 +52,7 @@
     - [`Bibliography.md`](https://bitbucket.org/snippets/imhicihu/xAMydX/bibliography-template)
     - `Links.md`
 * create a first issue. Automatically it will generate a `RSS feed`. Copy the URL of the `RSS feed` and append to [Feedly](feedly.com). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
-![rss.png](images/Rss.png)
+![rss.png](images/RSS.png)
 
 * Choose which [license](https://choosealicense.com/) _fit_ the general purpose of the project:
     - [MIT License](https://bitbucket.org/snippets/imhicihu/Arozob/mit-license)

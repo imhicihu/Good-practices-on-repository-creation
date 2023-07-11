@@ -17,7 +17,7 @@
 + Summary of set up
     - Read our latest [checklist](Checklist.md). 
     - There are some [snippets](https://bitbucket.org/imhicihu/workspace/snippets/) created for the occasion
-    - At some point, we will create a [milestone](https://bitbucket.org/site/master/issues/11528/make-milestones-and-versions-more). And then, enhance the walked road
+    - At some point, we will create a [milestone](https://jira.atlassian.com/browse/BCLOUD-11528). And then, enhance the walked road
       ![repository.png](images/68747470733a2f2f6269746275636b65742e6f72672f7265706f2f656b79616545452f696d616765732f313637353835393637352d7265706f7369746f72792e706e67.png)
 + Dependencies
     - _The less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
@@ -31,8 +31,8 @@
 * Code review
      - There is no code. Just time-savers, reminders and rules of good practice to optimize _Time_ (a human creation)
 * Other guidelines
-     - This repo is a _massive_ guideline / [checklist](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/Checklist.md)
-     - There is a [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
+     - This repo is a _massive_ guideline / [checklist](Checklist.md)
+     - There is a [code convention](Coding_convention.md)
      
 ### Issues ###
 

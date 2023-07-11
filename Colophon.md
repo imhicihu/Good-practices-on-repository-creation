@@ -51,8 +51,8 @@
      - [Asciinema](https://asciinema.org/)
 * Code sharing:
 	 - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
-	 ![carbon.png](https://bitbucket.org/repo/ekyaeEE/images/1492497760-prototype.png)
-	 > This is our [custom preset](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/downloads/carbon-config.json)
+	 ![carbon.png](images/1492497760-prototype.png)
+	 > This is our [custom preset](/downloads/carbon-config.json)
 * Bibliographic searcher
      - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers
 	 - [Semantic Scholar](https://www.semanticscholar.org/)
@@ -73,7 +73,7 @@
 	 - [Choose a license](https://choosealicense.com)
 	 - [The MIT License (MIT)](https://mit-license.org/)
 	 - [MIT License generator](https://www.richie-bendall.ml/mit-license-generator/): Generate your own MIT License
-	   ![license](https://bitbucket.org/repo/ekyaeEE/images/1238371074-appendix.png)
+	   ![license](images/1238371074-appendix.png)
 	 - [Github OSS license](https://github.com/github/choosealicense.com)
 	 - [Open source licenses](https://opensource.org/licenses)
 	 - [Creative Commons licenses -kind-of](https://creativecommons.org/choose)
@@ -90,7 +90,7 @@
      - [Skim](https://skim-app.sourceforge.io) PDF reader and note-taker for macOSX. It is designed to help you read and annotate scientific papers in PDF file format
 * PDF assembly
      - [Alchemy](https://github.com/dawnlabs/alchemy): file converter and merger (mainly to merge lots of pdfs into one)
-     ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](https://bitbucket.org/repo/5qA7gpA/images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif)
+     ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif)
 * HTTPs:
      - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
 * Link checker:

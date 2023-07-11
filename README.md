@@ -1,6 +1,6 @@
-![stability-work_in_progress](images/stability-work_in_progress.png)
-![internaluse-green](images/internal_use_Stable.png)
-![issues-open](images/issues_open.png)
+![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
+![internaluse-green](images/Badges/internal_use_Stable.png)
+![issues-open](images/Badges/issues_open.png)
 
 # Rationale #
 
@@ -57,4 +57,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](images/MIT_License.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/License/MIT_License.png)

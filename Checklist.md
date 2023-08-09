@@ -49,12 +49,14 @@
     - [`Bibliography.md`](https://bitbucket.org/snippets/imhicihu/xAMydX/bibliography-template)
     - `Links.md`
 * create a first issue. Automatically it will generate a `RSS feed`. Copy the URL of the `RSS feed` and append to [Feedly](feedly.com). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
+<BR></BR>
 ![rss.png](images/RSS.png)
 
 * Choose which [license](https://choosealicense.com/) _fit_ the general purpose of the project:
     - [MIT License](https://bitbucket.org/snippets/imhicihu/Arozob/mit-license)
     - [Creative Commons Attribution 4.0 International Public License](https://bitbucket.org/snippets/imhicihu/qnzz7q/creative-commons-legal-documentationmd)
 * If a repository is renamed, update the rss feed and urgently go to Feedly to update this new condition (see below). _Caveat_: This step form a part of an inner project. More info can be found [here](https://bitbucket.org/imhicihu/rss-feeds-self-tracking-control-of-repositories/overview)
+<BR></BR>
 ![feedly.png](images/feedly.png)
 * verify all the links with this online [tool](https://www.deadlinkchecker.com/)
 * Host most of digital assets as possible: `.jpeg`, `.gif`, `.png`, `.svg` either Bitbucket or Github

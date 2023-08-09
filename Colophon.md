@@ -1,4 +1,4 @@
-# Software
+### Software
 
 * Code documentation
 	 - [Devdocs.io](https://devdocs.io/): Supports `localstorage` mode
@@ -90,6 +90,7 @@
      - [Skim](https://skim-app.sourceforge.io) PDF reader and note-taker for macOSX. It is designed to help you read and annotate scientific papers in PDF file format
 * PDF assembly
      - [Alchemy](https://github.com/dawnlabs/alchemy): file converter and merger (mainly to merge lots of pdfs into one)
+     <BR></BR>
      ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif)
 * HTTPs:
      - [SSL for free](https://www.sslforfree.com/): Free SSL Certificates & Free Wildcard SSL Certificates
@@ -102,7 +103,7 @@
      - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
      - [Image Shrinker](https://github.com/stefansl/image-shrinker): minify images and graphics 
 
-# Online resources
+### Online resources
 
 * Image conpressor
 	 - [Sqoosh](https://squoosh.app/): Google's 'techie' response

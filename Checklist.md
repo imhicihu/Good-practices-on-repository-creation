@@ -25,9 +25,6 @@
     - append an avatar
         - size: no more than 1Mb in size
         - file type allowed: `PNG`, `Gif` or `Jpeg`
-    - ~~enable the `Boards` section~~
-        - ~~inside of it, add this card: `Proposals \ Propuestas`~~
-        - ~~by default: `Private`. Toggle to `Public`~~
     - go to --> `Settings`, then `Trello` section
         - Tap `Enable Trello`
         ![boards.png](images/15621379-trello_enabled.png)

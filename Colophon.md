@@ -48,11 +48,11 @@
 * HTLM 2 pdf
 	 - [HTML2PDF](https://wkhtmltopdf.org)
 * Terminal recorder:
-     - [Asciinema](https://asciinema.org/)
+   - [Asciinema](https://asciinema.org/)
 * Code sharing:
 	 - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
 	 ![carbon.png](images/1492497760-prototype.png)
-	 > This is our [custom preset](/downloads/carbon-config.json)
+	 - This is our [custom preset](/downloads/carbon-config.json)
 * Bibliographic searcher
      - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers
 	 - [Semantic Scholar](https://www.semanticscholar.org/)
@@ -105,7 +105,7 @@
 
 ### Online resources
 
-* Image conpressor
+* Image compressor
 	 - [Sqoosh](https://squoosh.app/): Google's 'techie' response
 * Graphic badges
 	 - [For the badge](https://forthebadge.com/)

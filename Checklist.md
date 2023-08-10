@@ -1,9 +1,9 @@
-## Introduction
+### Introduction
 * This is a _bona-fide_ effort, as acts just a simple _checklist_. 
 * It fills our needs, but in general, can sum a lot of time gained. Give it a try!
 ![repository.png](images/1675859675-repository.png)
 
-## Steps
+### Steps
 * verify that your internet connection is running and stable
 * create the repository in [Bitbucket](https://bitbucket.org/)
     - Give a name (the most descriptive name, the better)

@@ -1,3 +1,4 @@
+### PGP key
 You may use this PGP key to encrypt your message:
 
         -----BEGIN PGP PUBLIC KEY BLOCK-----

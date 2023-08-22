@@ -1,3 +1,4 @@
+### Code convention
 * 2 spaces for indentation (no tabs).
 * 80 character line length strongly preferred.
 * Prefer &#39; over &#34;.

@@ -22,6 +22,7 @@
 * [Gitignore collection (examples)](https://github.com/github/gitignore)
 * [Github ignore files -good practices](https://help.github.com/ignore-files/)
 * [Github's dot files](https://dotfiles.github.io/)
+* [Github pull request template: building community](https://help.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
 
 ### Markdown
 * [Markdown tutorial](https://www.markdowntutorial.com/)

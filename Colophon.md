@@ -18,7 +18,7 @@
 	 - [Read the docs](https://readthedocs.org/)
 	 - [Mkdocs](http://www.mkdocs.org/)
 * Diagram creation tools:
-     - [Websequencediagrams](https://www.websequencediagrams.com/)
+   - [Websequencediagrams](https://www.websequencediagrams.com/)
 	 - [Draw.io](https://www.draw.io/)
 	 - [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
 	 - [flowchart.js](http://flowchart.js.org/)
@@ -54,7 +54,7 @@
 	 ![carbon.png](images/1492497760-prototype.png)
 	 - This is our [custom preset](/downloads/carbon-config.json)
 * Bibliographic searcher
-     - ~~[ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers~~
+     - [ScienceFair](https://github.com/sciencefair-land/sciencefair): Discover, collect, organise, read and analyse scientific papers
 	 - [Semantic Scholar](https://www.semanticscholar.org/)
 * Code of conduct:
 	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for open source projects

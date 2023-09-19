@@ -60,7 +60,7 @@
 	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for open source projects
 * Code convention
 	 - _Vide_ [code convention](code_convention.md)
-	 - Check our [pull request style guide](https://bitbucket.org/snippets/imhicihu/qnzLKk/pull-request-style-guides)
+	 - Check our [pull request style guide](https://gist.github.com/imhicihu/de8f2bd3dc5fa030bdfdd1a13fb98dbd)
 * Accessibility
 	 - [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colour-blindness in a web browser
 	 - [Toptal Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)

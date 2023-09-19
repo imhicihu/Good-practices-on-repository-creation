@@ -18,7 +18,7 @@
 	 - [Read the docs](https://readthedocs.org/)
 	 - [Mkdocs](http://www.mkdocs.org/)
 * Diagram creation tools:
-   - [Websequencediagrams](https://www.websequencediagrams.com/)
+	- [Websequencediagrams](https://www.websequencediagrams.com/)
 	 - [Draw.io](https://www.draw.io/)
 	 - [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
 	 - [flowchart.js](http://flowchart.js.org/)
@@ -39,10 +39,10 @@
 	 - [Kap](https://getkap.co/)
 	 - [LICEcap](https://www.cockos.com/licecap/)
 * Font management:
-     - [FontBase](https://fontba.se/)
+   - [FontBase](https://fontba.se/)
 * Local server environment on MacOSX
-     - [Mamp](https://www.mamp.info)
-     - [httpster](https://github.com/SimbCo/httpster)
+   - [Mamp](https://www.mamp.info)
+   - [httpster](https://github.com/SimbCo/httpster)
 * Video-tutorials:
 	 - [Streamable](https://streamable.com/)
 * HTLM 2 pdf
@@ -54,16 +54,16 @@
 	 ![carbon.png](images/1492497760-prototype.png)
 	 - This is our [custom preset](/downloads/carbon-config.json)
 * Bibliographic searcher
-     - [ScienceFair](https://github.com/sciencefair-land/sciencefair): Discover, collect, organise, read and analyse scientific papers
+   - [ScienceFair](https://github.com/sciencefair-land/sciencefair): Discover, collect, organise, read and analyse scientific papers
 	 - [Semantic Scholar](https://www.semanticscholar.org/)
 * Code of conduct:
 	 - [Contributor Covenant](https://www.contributor-covenant.org/): Code of Conduct for open source projects
 * Code convention
-	 - _Vide_ [code convention](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/master/code_convention.md)
+	 - _Vide_ [code convention](code_convention.md)
 	 - Check our [pull request style guide](https://bitbucket.org/snippets/imhicihu/qnzLKk/pull-request-style-guides)
 * Accessibility
-	 - [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colorblindness in a web browser
-	 - [Toptals Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
+	 - [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colour-blindness in a web browser
+	 - [Toptal Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
 	 - [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)
 	 - [Tanaguru contrast finder](https://github.com/Tanaguru/Contrast-Finder)
 	 - [Color Oracle](https://colororacle.org/): a free color blindness simulator for Windows, Mac and Linux

@@ -110,11 +110,12 @@
 * Graphic badges
 	 - [For the badge](https://forthebadge.com/)
 * Linter
-     - [WebHint](https://github.com/webhintio/hint): improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors
+   - [WebHint](https://github.com/webhintio/hint): improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors
 * Text readability
 	 - [Abrevio](https://abrev.io/): en español
 * Documentation
-     - [Developer certificate](https://developercertificate.org/)
+   - [Developer certificate](https://developercertificate.org/)
+   - [Developer Certificate of Origin (DCO)](https://probot.github.io/apps/dco/)
 	 - [Markdown snippets Bitbucket](https://bitbucket.org/tutorials/markdowndemo)
 	 - [Markdown snippets GitHub](https://guides.github.com/features/mastering-markdown/)
 	 - [John Gruber's original markdown syntax](https://daringfireball.net/projects/markdown/syntax.text)
@@ -127,3 +128,8 @@
      - [Markup Validation Service](https://validator.w3.org/#validate_by_input)
 * Random Byte Generator
 	 - [Random Byte Generator](https://www.random.org/bytes/)
+* Editor config
+	 - [Editor Config](https://editorconfig.org/#example-file)
+* GitHub stuff
+	 - [.gitignore](https://www.toptal.com/developers/gitignore)
+	 - [.gitattributes](https://gitattributes.io/)

@@ -1,9 +1,7 @@
 ![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
 ![internaluse-green](images/Badges/internal_use_Stable.png)
-![issues-open](images/Badges/issues_open.png)
 
 # Rationale #
-
 * The purpose of this repository is a way of checklist when we create a brand new repository.
 * This repo is a living document that will grow and adapt over time
 
@@ -15,7 +13,7 @@
 ### How do I get set up? ###
 
 + Summary of set up
-    - Read our latest [checklist](Checklist.md). 
+    - Read our latest [checklist](Checklist.md)
     - There are some [snippets](https://bitbucket.org/imhicihu/workspace/snippets/) created for the occasion
     - At some point, we will create a [milestone](https://jira.atlassian.com/browse/BCLOUD-11528). And then, enhance the walked road
       ![repository.png](images/68747470733a2f2f6269746275636b65742e6f72672f7265706f2f656b79616545452f696d616765732f313637353835393637352d7265706f7369746f72792e706e67.png)
@@ -24,7 +22,7 @@
 + Deployment instructions
     - No mandatory "_to follow_". It is a "_good practice_" exercise and follow our needs
 
-### Contribution guidelines ###
+### Contribution guidelines
 
 * Writing tests
      - Fork this repo. Open an issue-pull request or just comment the workflow described. Check our [code convention](Coding_convention.md)

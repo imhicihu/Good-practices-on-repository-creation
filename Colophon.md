@@ -131,5 +131,7 @@
 * Editor config
 	 - [Editor Config](https://editorconfig.org/#example-file)
 * GitHub stuff
-	 - [.gitignore](https://www.toptal.com/developers/gitignore)
+	 - [.gitignore](https://www.toptal.com/developers/gitignore) 
+	 - [A collection of useful .gitignore templates](https://github.com/github/gitignore)
 	 - [.gitattributes](https://gitattributes.io/)
+

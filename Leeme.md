@@ -1,4 +1,5 @@
-Leeme.md
+![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
+![internaluse-green](images/Badges/internal_use_Stable.png)
 # FUNDAMENTO #
 
 Este documento describe el o los fundamentos, tanto más los pasos necesarios para cumplir con el o los objetivos propuestos.
@@ -7,8 +8,6 @@ Este documento describe el o los fundamentos, tanto más los pasos necesarios pa
 
 * Breve resumen
     - 
-* Versión 1.00
-    -
 
 ### ¿Cómo se configura? ###
 

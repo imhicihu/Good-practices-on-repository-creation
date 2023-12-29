@@ -6,4 +6,4 @@
 * Use semicolons;
 * Trailing commas,
 * Avoid abbr wrds.
-* Comment your code is a good practice and welcomed
+* Comment your code is a good practice and welcomed.

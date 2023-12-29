@@ -23,10 +23,8 @@ Ejemplos de comportamiento inaceptable:
   atenciones sexuales de cualquier tipo
 * Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos
 * El acoso en público o privado
-* Publicar información privada de otras personas, tales como direcciones físicas o de correo
-  electrónico, sin su permiso explícito
-* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un
-  entorno profesional
+* Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito
+* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un entorno profesional
 
 ### Aplicación de las responsabilidades
 

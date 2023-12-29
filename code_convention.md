@@ -5,4 +5,5 @@
 * ES6 syntax when possible.
 * Use semicolons;
 * Trailing commas,
-* Avd abbr wrds.
+* Avoid abbr wrds.
+* Comment your code is a good practice and welcomed

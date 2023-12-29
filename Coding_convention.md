@@ -1,4 +1,4 @@
-### Good practices on coding
+### Code convention
 * Add `//` comments to make code more human-readable.
 * 4 spaces for indentation (no tabs).
 * 80 character line length *strongly* preferred.

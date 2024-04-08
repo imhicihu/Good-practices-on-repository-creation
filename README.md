@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="images/logo.png?raw=true" alt="Logotipo de 
+  Good practices on repository creation"/>
+</p>
+<br>
+</br>
+
 ![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 

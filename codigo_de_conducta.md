@@ -1,5 +1,5 @@
 
-## Código de Conducta convenido para Contribuyentes
+### Código de Conducta convenido para Contribuyentes
 
 ### Nuestro compromiso
 

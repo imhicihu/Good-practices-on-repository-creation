@@ -12,34 +12,30 @@ Este documento describe el o los fundamentos, tanto más los pasos necesarios pa
 * Resumen de la configuración
   - 
 * Configuración
-    - 
+  - 
 * Dependencias
-    - 
+  - 
 * Configuración de la base de datos
-    - 
+  - 
 * Como ejecutar las pruebas
-    - 
+  - 
 * Instrucciones de implementación
-    - 
+  -
 
 ### Lineamientos de contribuciones
 * Pruebas de escritura
-    - 
+  - 
 * Revisión de código fuente
-    - 
+  - 
 * Otras guías
-    -
+  -
 
 ### ¿Cómo puede contactarnos?
-
 * Administrador del repositorio
     - Contáctese con `imhicihu` arroba `gmail` punto `com`
-
-    
+   
 ### Legales
-
 * Todas las marcas registradas son propiedad de sus respectivos propietarios
 
 ### Licencia
-
 * El contenido de este proyecto está bajo una licencia 

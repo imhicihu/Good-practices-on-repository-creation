@@ -5,14 +5,12 @@
 Este documento describe el o los fundamentos, tanto más los pasos necesarios para cumplir con el o los objetivos propuestos.
 
 ### ¿Cuál es la razón de ser de este repositorio? ###
-
 * Breve resumen
-    - 
+  - 
 
-### ¿Cómo se configura? ###
-
+### ¿Cómo se configura?
 * Resumen de la configuración
-    - 
+  - 
 * Configuración
     - 
 * Dependencias
@@ -24,8 +22,7 @@ Este documento describe el o los fundamentos, tanto más los pasos necesarios pa
 * Instrucciones de implementación
     - 
 
-### Lineamientos de contribuciones ###
-
+### Lineamientos de contribuciones
 * Pruebas de escritura
     - 
 * Revisión de código fuente
@@ -33,16 +30,16 @@ Este documento describe el o los fundamentos, tanto más los pasos necesarios pa
 * Otras guías
     -
 
-### ¿Cómo puede contactarnos? ###
+### ¿Cómo puede contactarnos?
 
 * Administrador del repositorio
     - Contáctese con `imhicihu` arroba `gmail` punto `com`
 
     
-## Legales ##
+### Legales
 
 * Todas las marcas registradas son propiedad de sus respectivos propietarios
 
-### Licencia ###
+### Licencia
 
 * El contenido de este proyecto está bajo una licencia 

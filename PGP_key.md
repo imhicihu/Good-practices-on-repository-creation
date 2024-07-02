@@ -53,3 +53,7 @@ You may use this PGP key to encrypt your message:
         SxdolIDw451C9QFhlwVWOwz1MfFzqSPY0zxjGXeke+M4FPDtrwxYLw==
         =HJJq
         -----END PGP PUBLIC KEY BLOCK-----
+
+
+> [!TIP]
+> [Checksum on mac environment](https://gist.github.com/imhicihu/0c4d4dba1b73df41af1066253c5d4c3d)

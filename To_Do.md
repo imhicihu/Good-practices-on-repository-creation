@@ -5,7 +5,6 @@
 #### Online resources
 * [https://zeit.co/github](https://vercel.com/docs/concepts/deployments/git/vercel-for-github#)
 * https://gitpunch.com/
-* https://www.repostatus.org/
 * https://data.world/resources/reports-and-tools/modern-data-project-checklist/
 * https://www.pushbullet.com/
 * https://www.whatismybrowser.com/minimum-system-requirements/

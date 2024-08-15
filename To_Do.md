@@ -1,7 +1,6 @@
 #### Password management
 * [1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source)
-#### Accessibility
-* https://www.nature.com/articles/nmeth.1618 (check DOI)
+
 #### Online resources
 * [https://zeit.co/github](https://vercel.com/docs/concepts/deployments/git/vercel-for-github#)
 * https://gitpunch.com/

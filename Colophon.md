@@ -51,7 +51,7 @@
    - [Asciinema](https://asciinema.org/)
 * Code sharing:
 	 - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
-	 ![carbon.png](images/1492497760-prototype.png)
+	 ![carbon.png](images/prototype.png)
 	 - This is our [custom preset](/downloads/carbon-config.json)
 * Bibliographic searcher
    - [ScienceFair](https://github.com/sciencefair-land/sciencefair): Discover, collect, organise, read and analyse scientific papers

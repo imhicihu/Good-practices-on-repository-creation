@@ -1,7 +1,7 @@
 ### Introduction
 * This is a _bona-fide_ effort, as acts just a simple _checklist_. 
 * It fills our needs, but in general, can sum a lot of time gained. Give it a try!
-![repository.png](images/1675859675-repository.png)
+![repository.png](images/repository.png)
 
 ### Steps
 * verify that your internet connection is running and stable
@@ -14,9 +14,9 @@
     - Choose what kind of `Forks` you will allow
     - Click on `Issue tracking` option
         - Choose between this options:
-            + No issue tracker
-            + Private issue tracker
-            + Public issue tracker
+            + `No issue tracker`
+            + `Private issue tracker`
+            + `Public issue tracker`
                 * append this legend: `Any issue will be handled on a best-effort basis All efforts have been made to keep the source as clean and readable as possible. //  Cualquier problema se manejará de la mejor manera posible. Se han realizado todos los esfuerzos para mantener la documentación y el código fuente lo más limpia y legible posible.`
             + Disable `Anonymous users can create issues` option
     - In `Language` choose the code language that it will be use (mostly)

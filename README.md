@@ -25,7 +25,7 @@
     - At some point, we will create a [milestone](https://jira.atlassian.com/browse/BCLOUD-11528). And then, enhance the walked road
       ![repository.png](images/68747470733a2f2f6269746275636b65742e6f72672f7265706f2f656b79616545452f696d616765732f313637353835393637352d7265706f7369746f72792e706e67.png)
 + Dependencies
-    - _The less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
+    - _The less, the better_. A personal [motto](https://dictionary.cambridge.org/es/diccionario/ingles/motto)
 + Deployment instructions
     - No mandatory "_to follow_". It is a "_good practice_" exercise and follow our needs
 

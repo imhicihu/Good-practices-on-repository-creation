@@ -37,10 +37,18 @@
   - Este repositorio es una guía _masiva_ / [lista de comprobación](Checklist.md)
   - Existe una [convención de código](Coding_convention.md)
 
+### Problemas
+
+* Compruébelos en [aquí](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues)
+
+### Registro de cambios
+
+* Consulte la sección [Commits](https://github.com/imhicihu/Good-practices-on-repository-creation/commits/master) para conocer el estado actual
+
 ### ¿Cómo puede contactarnos?
 * Administrador del repositorio
     - Contáctese con `imhicihu` arroba `gmail` punto `com`
-   
+
 ### Legales
 * Todas las marcas registradas son propiedad de sus respectivos propietarios
 

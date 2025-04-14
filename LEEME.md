@@ -1,16 +1,25 @@
+<p align="center">
+  <img src="images/logo.png?raw=true" alt="Logotipo de 
+  Good practices on repository creation"/>
+</p>
+
+---
+
 ![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
 ![internaluse-green](images/Badges/internal_use_Stable.png)
+
 # FUNDAMENTO #
 
-Este documento describe el o los fundamentos, tanto más los pasos necesarios para cumplir con el o los objetivos propuestos.
+* El propósito de este repositorio es una forma de lista de control cuando creamos un nuevo repositorio
+* Este repositorio es un documento vivo que crecerá y se adaptará con el tiempo
 
 ### ¿Cuál es la razón de ser de este repositorio? ###
 * Breve resumen
-  - 
+  - Una receta de tipo _lista_de_sistematización_ cuando se crea un repositorio
 
 ### ¿Cómo se configura?
 * Resumen de la configuración
-  - 
+  - Lea nuestra última [lista de verificación](Checklist_4_Bitbucket.md)
 * Configuración
   - 
 * Dependencias

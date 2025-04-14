@@ -49,6 +49,10 @@
 * Administrador del repositorio
     - Contáctese con `imhicihu` arroba `gmail` punto `com`
 
+### Código de conducta
+
+* Consulte nuestro [Código de conducta](codigo_de_conducta.md)
+
 ### Legales
 * Todas las marcas registradas son propiedad de sus respectivos propietarios
 

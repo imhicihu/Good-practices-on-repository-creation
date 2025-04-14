@@ -53,4 +53,4 @@
 * Todas las marcas registradas son propiedad de sus respectivos propietarios
 
 ### Licencia
-* El contenido de este proyecto está bajo una licencia 
+* El contenido de este proyecto está bajo una licencia ![MIT](images/License/MIT_License.png) 

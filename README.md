@@ -9,7 +9,7 @@
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
 # Rationale #
-* The purpose of this repository is a way of checklist when we create a brand new repository.
+* The purpose of this repository is a form of checklist when we create a brand new repository
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###

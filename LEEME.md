@@ -30,7 +30,7 @@
 
 ### Lineamientos de contribuciones
 * Pruebas de escritura
-  - [Bifurque](https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software) este repositorio. Abra una [solicitud de mejora](https://www.wikidata.org/wiki/Q68712963) o simplemente comente el flujo de trabajo descrito. Comprueba nuestra [convención de código](Coding_convention.md)
+  - [Bifurque](https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)) este repositorio. Abra una [solicitud de mejora](https://www.wikidata.org/wiki/Q68712963) o simplemente comente el flujo de trabajo descrito. Comprueba nuestra [convención de código](Coding_convention.md)
 * Revisión de código fuente
   - 
 * Otras guías

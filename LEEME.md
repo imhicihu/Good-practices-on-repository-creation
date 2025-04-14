@@ -25,16 +25,12 @@
   ![repository.png](images/68747470733a2f2f6269746275636b65742e6f72672f7265706f2f656b79616545452f696d616765732f313637353835393637352d7265706f7369746f72792e706e67.png)
 * Dependencias
   - _Cuanto menos, mejor_. Un [lema](https://dictionary.cambridge.org/es/diccionario/ingles/motto) personal
-* Configuración de la base de datos
-  - 
-* Como ejecutar las pruebas
-  - 
 * Instrucciones de implementación
-  -
+  - No es un "_siga nuestras instrucciones_" obligatorio. Es un ejercicio de "_buenas prácticas_" y sigue nuestras necesidades
 
 ### Lineamientos de contribuciones
 * Pruebas de escritura
-  - 
+  - [Bifurque](https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software) este repositorio. Abra una [solicitud de mejora](https://www.wikidata.org/wiki/Q68712963) o simplemente comente el flujo de trabajo descrito. Comprueba nuestra [convención de código](Coding_convention.md)
 * Revisión de código fuente
   - 
 * Otras guías

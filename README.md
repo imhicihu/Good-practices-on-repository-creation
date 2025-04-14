@@ -8,16 +8,16 @@
 ![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
-# Rationale #
+# Rationale  [Fundamento](LEEME.md)
 * The purpose of this repository is a form of checklist when we create a brand new repository
 * This repo is a living document that will grow and adapt over time
 
-### What is this repository for? ###
+### What is this repository for?
 
 + Quick summary
     * A _systematize-to_do-checklist_ recipe when a repository is created
 
-### How do I get set up? ###
+### How do I get set up?
 
 + Summary of set up
     - Read our latest [checklist](Checklist_4_Bitbucket.md)
@@ -39,15 +39,15 @@
      - This repo is a _massive_ guideline / [checklist](Checklist.md)
      - There is a [code convention](Coding_convention.md)
      
-### Issues ###
+### Issues
 
 * Check them on [here](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues)
 
-### Changelog ###
+### Changelog
 
 * Please check the [Commits](https://github.com/imhicihu/Good-practices-on-repository-creation/commits/master) section for the current status
 
-### Who do I talk to? ###
+### Who do I talk to?
 
 * Repo owner or admin
 	 - Contact `imhicihu` at `gmail` dot `com`
@@ -56,10 +56,10 @@
 
 * Please, check our [Code of Conduct](code_of_conduct.md)
 
-### Legal ###
+### Legal
 
 * All trademarks are the property of their respective owners
 
-### License ###
+### License
 
 * The content of this project itself is licensed under the ![MIT Licence](images/License/MIT_License.png)

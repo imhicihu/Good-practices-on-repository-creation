@@ -1,3 +1,6 @@
+### Human
+* All this repos is built by a human using hand-coded HTML & CSS, javascript, react _et alia_. You can follow us with a [RSS feeds](https://github.com/imhicihu.atom) for updates.
+
 ### Software
 
 * Code documentation

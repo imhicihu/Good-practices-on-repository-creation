@@ -6,8 +6,8 @@
 * Code documentation
 	 - [Devdocs.io](https://devdocs.io/): Supports `localstorage` mode
 * Syntax & semantic issues
-	 - Install [Writefull for Chrome](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related): gives feedback on your writing by checking your text against databases of correct language
-	 - Install [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen): makes sure everything you type is clear, effective, and mistake-free
+	 - [Writefull for Chrome](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related): gives feedback on your writing by checking your text against databases of correct language
+	 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen): makes sure everything you type is clear, effective, and mistake-free
 * Documentation (markdown online editor)
 	 - [Writeme](http://writeme.mattstow.com/)
 	 - [markdownify](http://www.amitmerchant.com/markdownify-web)
@@ -33,11 +33,11 @@
      - [sitespeed.io](https://www.sitespeed.io/): performance & optimization web tools
 * Code editor
 	 - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
-	 - [Atom Editor](http://atom.io)
+	 - ~~[Atom Editor](http://atom.io)~~ (_deprecated_)
 * Code formatting
 	 - [Prettier](https://prettier.io)
 * Table of content generator (TOC)
-	 - [gh-md-toc](https://github.com/ekalinin/github-markdown-toc): markdown (mostly _de facto_ format in Github & Bitbucket for internal documentation)
+	 - [gh-md-toc](https://github.com/ekalinin/github-markdown-toc): markdown (mostly *de facto* format in Github ~~& Bitbucket~~ for internal documentation)
 * Screen recorder:
 	 - [Kap](https://getkap.co/)
 	 - [LICEcap](https://www.cockos.com/licecap/)

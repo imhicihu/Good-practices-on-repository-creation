@@ -20,7 +20,7 @@
 ### ¿Cómo se configura?
 * Resumen de la configuración
   - Lea nuestra última [lista de verificación](Checklist_4_Bitbucket.md)
-  - Estos son algunos [fragmentos de código](https://bitbucket.org/imhicihu/workspace/snippets/) creados para la ocasión
+  - Estos son algunos [fragmentos de código](https://gist.github.com/imhicihu) creados para la ocasión
   - En algún momento, crearemos un [hito](https://jira.atlassian.com/browse/BCLOUD-11528). Y luego, mejorar el camino andado
   ![repository.png](images/68747470733a2f2f6269746275636b65742e6f72672f7265706f2f656b79616545452f696d616765732f313637353835393637352d7265706f7369746f72792e706e67.png)
 * Dependencias

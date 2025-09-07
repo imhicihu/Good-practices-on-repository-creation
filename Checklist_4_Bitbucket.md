@@ -39,8 +39,8 @@
 * from `Snippets` section, create this files on the `Sources` section
     - [README.md](https://bitbucket.org/imhicihu/workspace/snippets/zea8aE/template-rationale-english)
     - [`.gitignore`](https://bitbucket.org/snippets/imhicihu/ak84yb/gitignore)
-    - [`.editorconfig`](https://bitbucket.org/snippets/imhicihu/A8akG5/editorconfig)
-    - [`.gitattributes`](https://bitbucket.org/snippets/imhicihu/Kzxq86/gitattributes)
+    - [`.editorconfig`](https://gist.github.com/imhicihu/795e211882cf690066c834dfe5419581)
+    - [`.gitattributes`](https://gist.github.com/imhicihu/aa352d24aec82fd9e3cb017355afa7d4)
     - [`android.gitignore`](https://bitbucket.org/snippets/imhicihu/BMX8ja)
     - [`.hgtags`](https://stackoverflow.com/questions/4472804/what-is-the-purpose-of-having-hgtags)
 * Then, create this files in the same section:

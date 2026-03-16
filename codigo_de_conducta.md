@@ -18,8 +18,7 @@ Ejemplos de comportamientos que contribuyen a crear un ambiente positivo para nu
 
 Ejemplos de comportamiento inaceptable:
 
-* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o
-  atenciones sexuales de cualquier tipo
+* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo
 * Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos
 * El acoso en público o privado
 * Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito
@@ -78,5 +77,4 @@ Las Guías de Impacto en la Comunidad están inspiradas en la [escalera de aplic
 
 [P&iacutegina principal]: https://www.contributor-covenant.org
 
-Para respuestas a las preguntas frecuentes de este código de conducta, consulta las FAQ en
-https://www.contributor-covenant.org/faq. 
+Para respuestas a las preguntas frecuentes de este código de conducta, consulta las [preguntas frecuentes](https://es.wikipedia.org/wiki/Preguntas_frecuentes) en https://www.contributor-covenant.org/faq. 

@@ -8,7 +8,7 @@
 ![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
-# FUNDAMENTO #
+# Fundamento / [Rationale](README.md)
 
 * El propósito de este repositorio es una forma de lista de control cuando creamos un nuevo repositorio
 * Este repositorio es un documento vivo que crecerá y se adaptará con el tiempo

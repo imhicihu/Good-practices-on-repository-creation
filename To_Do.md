@@ -10,3 +10,4 @@
 * https://www.whatismybrowser.com/minimum-system-requirements/
 * https://allcontributors.org/docs/en/bot/usage  --> `bot`
 * https://sonarcloud.io/ (code quality across boards & repos)
+* [Link checker](https://www.deadlinkchecker.com/)

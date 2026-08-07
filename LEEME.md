@@ -8,12 +8,12 @@
 ![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
-# Fundamento / [Rationale](README.md)
+## Fundamento / [Rationale](README.md)
 
 * El propósito de este repositorio es una forma de lista de control cuando creamos un nuevo repositorio
 * Este repositorio es un documento vivo que crecerá y se adaptará con el tiempo
 
-### ¿Cuál es la razón de ser de este repositorio? ###
+### ¿Cuál es la razón de ser de este repositorio?
 * Breve resumen
   - Una receta de tipo _lista_de_sistematización_ cuando se crea un repositorio
 
@@ -39,7 +39,7 @@
 
 ### Problemas
 
-* Compruébelos en [aquí](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues)
+* Compruébelos en [aquí](https://github.com/imhicihu/good-practices-on-repository-creation/issues)
 
 ### Registro de cambios
 

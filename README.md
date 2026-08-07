@@ -8,7 +8,7 @@
 ![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
-# Rationale / [Fundamento](LEEME.md)
+## Rationale / [Fundamento](LEEME.md)
 * The purpose of this repository is a form of checklist when we create a brand new repository
 * This repo is a living document that will grow and adapt over time
 
@@ -41,7 +41,7 @@
      
 ### Issues
 
-* Check them on [here](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues)
+* Check them on [here](https://github.com/imhicihu/good-practices-on-repository-creation/issues)
 
 ### Changelog
 

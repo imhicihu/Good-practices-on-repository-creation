@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="images/logo.png?raw=true" alt="Logotipo de 
-  Good practices on repository creation"/>
+  <img src="images/logo.png?raw=true" alt="Logotipo de Good practices on repository creation" weight="480" height="680"/>
 </p>
 
 ---
